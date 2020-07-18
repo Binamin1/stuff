@@ -1,0 +1,12 @@
+#EXTM3U
+#PLAYLIST:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",NAT GEO WILD HD US
+http://securetv.net:8080/zguyMk8K8P/7602260256/23285?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Nat Geo USA
+http://securetv.net:8080/zguyMk8K8P/7602260256/22503?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Undefined",AD Nat Geo
+http://37.235.38.131:4000/play/a02g/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",History Channel HD
+http://rtrmsrv22.gq:80/julio-restream/b1NFEMLEdR/185?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Discovery Channel USA
+http://securetv.net:8080/zguyMk8K8P/7602260256/22549?checkedby:iptvcat.com
