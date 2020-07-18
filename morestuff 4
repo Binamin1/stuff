@@ -198,8 +198,6 @@ https://shls-iraq-prod.shahid.net/iraq-prod_1.m3u8?checkedby:iptvcat.com
 https://shls-masr-prod.shahid.net/masr-prod_1.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="EG" tvg-logo="https://i.imgur.com/7dQmaj6.png" group-title="MBC",MBC Masr 2
 https://shls-masr2-prod.shahid.net/masr2-prod_1.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="GB" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Comedy_Central_Logo_2011_vertikal.png" group-title="Comedy",Comedy Central UK
-http://securetv.net:8080/zguyMk8K8P/7602260256/1283?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Comedy_Central_Logo_2011_vertikal.png" group-title="Comedy",Comedy Central US
 http://securetv.net:8080/zguyMk8K8P/7602260256/22553?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/800px-HBO_logo.svg.png" group-title="HBO",HBO COMEDY HD
