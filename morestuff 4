@@ -198,3 +198,48 @@ https://shls-iraq-prod.shahid.net/iraq-prod_1.m3u8?checkedby:iptvcat.com
 https://shls-masr-prod.shahid.net/masr-prod_1.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="EG" tvg-logo="https://i.imgur.com/7dQmaj6.png" group-title="MBC",MBC Masr 2
 https://shls-masr2-prod.shahid.net/masr2-prod_1.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Comedy_Central_Logo_2011_vertikal.png" group-title="Comedy",Comedy Central UK
+http://securetv.net:8080/zguyMk8K8P/7602260256/1283?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Comedy_Central_Logo_2011_vertikal.png" group-title="Comedy",Comedy Central US
+http://securetv.net:8080/zguyMk8K8P/7602260256/22553?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/800px-HBO_logo.svg.png" group-title="HBO",HBO COMEDY HD
+http://securetv.net:8080/zguyMk8K8P/7602260256/23303?checkedby:iptvcat.com
+  #EXTINF:0 tvg-country="US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/800px-HBO_logo.svg.png" group-title="HBO",HBO FAMILY HD
+http://securetv.net:8080/zguyMk8K8P/7602260256/23301?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/800px-HBO_logo.svg.png" group-title="HBO",HBO HD
+http://securetv.net:8080/zguyMk8K8P/7602260256/23300?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="https://www.sky.com/assets2/sky-cinema-logo-june2020.png" group-title="Sky",Sky Cinema Action
+http://securetv.net:8080/zguyMk8K8P/7602260256/1397?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="https://www.sky.com/assets2/sky-cinema-logo-june2020.png" group-title="Sky",Sky Cinema Comedy
+http://securetv.net:8080/zguyMk8K8P/7602260256/1206?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="https://www.sky.com/assets2/sky-cinema-logo-june2020.png" group-title="Sky",Sky Cinema Disney
+http://securetv.net:8080/zguyMk8K8P/7602260256/12206?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="https://www.sky.com/assets2/sky-cinema-logo-june2020.png" group-title="Sky",Sky Cinema Drama
+http://securetv.net:8080/zguyMk8K8P/7602260256/1404?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="https://www.sky.com/assets2/sky-cinema-logo-june2020.png" group-title="Sky",Sky Cinema Family
+http://securetv.net:8080/zguyMk8K8P/7602260256/1203?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="https://www.sky.com/assets2/sky-cinema-logo-june2020.png" group-title="Sky",Sky Cinema Greats
+http://securetv.net:8080/zguyMk8K8P/7602260256/1403?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="https://www.sky.com/assets2/sky-cinema-logo-june2020.png" group-title="Sky",Sky Cinema Hits
+http://securetv.net:8080/zguyMk8K8P/7602260256/12555?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="https://www.sky.com/assets2/sky-cinema-logo-june2020.png" group-title="Sky",Sky Cinema Premiere
+http://securetv.net:8080/zguyMk8K8P/7602260256/1200?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="https://www.sky.com/assets2/sky-cinema-logo-june2020.png" group-title="Sky",Sky Cinema Select
+http://securetv.net:8080/zguyMk8K8P/7602260256/1151?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="https://www.sky.com/assets2/sky-cinema-logo-june2020.png" group-title="Sky",Sky Cinema Thriller
+http://securetv.net:8080/zguyMk8K8P/7602260256/1150?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/VH1_logonew.svg/1200px-VH1_logonew.svg.png" group-title="Music",VH1 UK
+http://securetv.net:8080/zguyMk8K8P/7602260256/1322?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/VH1_logonew.svg/1200px-VH1_logonew.svg.png" group-title="Music",VH1 US
+http://securetv.net:8080/zguyMk8K8P/7602260256/22898?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/MTV_Logo.svg/1001px-MTV_Logo.svg.png" group-title="Music",MTV BASE
+http://securetv.net:8080/zguyMk8K8P/7602260256/1236?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="https://i.imgur.com/iv85GCc.png" group-title="Music",Box Hits
+http://csm-e.tm.yospace.com/csm/extlive/boxplus01,boxhits-desktop.m3u8?yo.up=http%3a%2f%2fboxtv-origin-elb.cds1.yospace.com%2fuploads%2fboxhits%2f&checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="https://i.imgur.com/AqVdlpz.png" group-title="Music",Kiss,UK | Kiss
+http://csm-e.tm.yospace.com/csm/extlive/boxplus01,kiss-inapp.m3u8?yo.up=http%3a//boxtv-origin-elb.cds1.yospace.com/uploads/kiss/&checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="https://i.imgur.com/HXfKkwj.png" group-title="Music",Magic UK | Magic
+http://csm-e.tm.yospace.com/csm/extlive/boxplus01,magic-desktop.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/magic/&checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/2/2a/ITV_%282013%29.svg/revision/latest/scale-to-width-down/340?cb=20190104055049" group-title="Comedy",ITV HD
+http://securetv.net:8080/zguyMk8K8P/7602260256/1246?checkedby:iptvcat.com
+
