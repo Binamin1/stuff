@@ -148,8 +148,6 @@ http://185.105.4.106:1935/live/Bahrain%20Sports/chunklist.m3u8?v=1558393494&chec
 http://185.105.4.106:1935/live/Bahrain%20Sports/chunklist.m3u8?v=1548640033&checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BH" tvg-logo="https://i.imgur.com/G9BMhDS.png" group-title="Sport",Bahrain Sport 2
 https://5c7b683162943.streamlock.net/live/ngrp:Bahrain%20Sports%202_all/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BH" tvg-logo="https://i.imgur.com/OYGfDSq.jpg" group-title="Religious",Bahrain Quran,BH | Bahrain Quran
-http://185.105.4.106:1935/live/Bahrain%20Quran/chunklist.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="" tvg-logo="https://www.telearabiapro.tv/wp-content/uploads/2020/02/AL-ARABIYA-sqaure-01-640x506.png" group-title="News",AL Arabiya HD
 https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist_720p.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/rLR5q2x.png" group-title="News",AE | Al Hadath,Al Arabiya Al Hadath,Al Hadath
@@ -178,27 +176,25 @@ http://live-hls-web-ajm.getaj.net/AJM/01.m3u8?checkedby:iptvcat.com
 http://live-hls-web-aje.getaj.net/AJE/01.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="UN" tvg-logo="https://d24j9r7lck9cin.cloudfront.net/l/o/5/5538.1498366495.png" group-title="News",Aljazeera Documentery
 http://live-hls-web-ajd.getaj.net/AJD/01.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/eKBXOKd.png" group-title="Entertainment",MBC 1
+#EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/eKBXOKd.png" group-title="MBC",MBC 1
 https://shls-mbc1ksa-prod.shahid.net/mbc1ksa-prod_1.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/KXuzL1u.png" group-title="Entertainment",MBC 2 
+#EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/KXuzL1u.png" group-title="MBC",MBC 2 
 https://shls-mbc2-prod.shahid.net/mbc2-prod_1.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/FVNVC73.png" group-title="Entertainment",MBC 3
+#EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/FVNVC73.png" group-title="MBC",MBC 3
 https://shls-mbc3-prod.shahid.net/mbc3-prod_1.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/pfF61uH.png" group-title="Entertainment",MBC 4
+#EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/pfF61uH.png" group-title="MBC",MBC 4
 https://shls-mbc4-prod.shahid.net/mbc4-prod_1.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/n3TgfP0.png" group-title="Entertainment",MBC Action 
+#EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/n3TgfP0.png" group-title="MBC",MBC Action 
 https://shls-mbcaction-prod.shahid.net/mbcaction-prod_1.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/fMjhK06.png" group-title="Entertainment",MBC Bollywood
+#EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/fMjhK06.png" group-title="MBC",MBC Bollywood
 https://shls-mbcbollywood-prod.shahid.net/mbcbollywood-prod_1.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/F5ER0we.png" group-title="Entertainment",MBC Drama
+#EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/F5ER0we.png" group-title="MBC",MBC Drama
 https://shls-mbcdramaksa-prod.shahid.net/mbcdramaksa-prod_1.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/X6EliFm.png" group-title="Entertainment",MBC Max 
+#EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/X6EliFm.png" group-title="MBC",MBC Max 
 https://shls-mbcmax-prod.shahid.net/mbcmax-prod.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="IQ" tvg-logo="https://i.imgur.com/huebvDt.png" group-title="Entertainment",MBC Iraq
+#EXTINF:0 tvg-country="IQ" tvg-logo="https://i.imgur.com/huebvDt.png" group-title="MBC",MBC Iraq
 https://shls-iraq-prod.shahid.net/iraq-prod_1.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="EG" tvg-logo="https://i.imgur.com/SrvZduL.jpg" group-title="Entertainment",MBC Masr 1
+#EXTINF:0 tvg-country="EG" tvg-logo="https://i.imgur.com/SrvZduL.jpg" group-title="MBC",MBC Masr 1
 https://shls-masr-prod.shahid.net/masr-prod_1.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="EG" tvg-logo="https://i.imgur.com/7dQmaj6.png" group-title="Entertainment",MBC Masr 2
+#EXTINF:0 tvg-country="EG" tvg-logo="https://i.imgur.com/7dQmaj6.png" group-title="MBC",MBC Masr 2
 https://shls-masr2-prod.shahid.net/masr2-prod_1.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="AE" tvg-logo="https://upload.wikimedia.org/wikipedia/ar/thumb/4/48/Mbc5.webp/168px-Mbc5.webp.png" group-title="Radio",MBC 5
-https://shls-mbc5-prod.shahid.net/mbc5-prod_1.m3u8?checkedby:iptvcat.com
