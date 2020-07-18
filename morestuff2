@@ -2,19 +2,19 @@
 #PLAYLIST:iptvcat.com
 #EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/eKBXOKd.png" group-title="Entertainment",MBC 1
 https://shls-mbc1ksa-prod.shahid.net/mbc1ksa-prod_1.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/KXuzL1u.png" group-title="Entertainment",MBC 2 HD
+#EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/KXuzL1u.png" group-title="Entertainment",MBC 2 
 https://shls-mbc2-prod.shahid.net/mbc2-prod_1.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/FVNVC73.png" group-title="Entertainment",MBC 3
 https://shls-mbc3-prod.shahid.net/mbc3-prod_1.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/pfF61uH.png" group-title="Entertainment",MBC 4
 https://shls-mbc4-prod.shahid.net/mbc4-prod_1.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/n3TgfP0.png" group-title="Entertainment",MBC Action HD
+#EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/n3TgfP0.png" group-title="Entertainment",MBC Action 
 https://shls-mbcaction-prod.shahid.net/mbcaction-prod_1.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/fMjhK06.png" group-title="Entertainment",MBC Bollywood
 https://shls-mbcbollywood-prod.shahid.net/mbcbollywood-prod_1.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/F5ER0we.png" group-title="Entertainment",MBC Drama
 https://shls-mbcdramaksa-prod.shahid.net/mbcdramaksa-prod_1.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/X6EliFm.png" group-title="Entertainment",MBC Max HD
+#EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/X6EliFm.png" group-title="Entertainment",MBC Max 
 https://shls-mbcmax-prod.shahid.net/mbcmax-prod.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="IQ" tvg-logo="https://i.imgur.com/huebvDt.png" group-title="Entertainment",MBC Iraq
 https://shls-iraq-prod.shahid.net/iraq-prod_1.m3u8?checkedby:iptvcat.com
