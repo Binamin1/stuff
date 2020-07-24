@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="Rotana" tvg-logo="https://upload.wikimedia.org/wikipedia/ar/b/b8/Rotana_logo.jpg" group-title="ROTANA",Rotana
+#EXTINF:-1 tvg-id="" tvg-name="Rotana" tvg-logo="https://upload.wikimedia.org/wikipedia/ar/b/b8/Rotana_logo.jpg" group-title="Rotana",Rotana
 http://magco.rip:8000/41687585354413/41787452632984/27876
 #EXTINF:-1 tvg-id="RotanaAflam.eg" tvg-name="Rotana AFLAM HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/rotana_aflam.jpg" group-title="Rotana",Rotana AFLAM HD
 http://magco.rip:8000/41687585354413/41787452632984/27882
@@ -26,55 +26,55 @@ http://magco.rip:8000/41687585354413/41787452632984/27878
 #EXTINF:-1 tvg-id="RotanaMusic.eg" tvg-name="Rotana Music HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/rotana_mousica.jpg" group-title="Rotana",Rotana Music HD
 http://magco.rip:8000/41687585354413/41787452632984/27877
 
-#EXTINF:-1 tvg-id="" tvg-name="BBC EARTH" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTl1mMYgf17krOaE3R6wClCiR91yqigg24wzOTd_Y-HQg5zFh_8" group-title=“News”,BBC EARTH
+#EXTINF:-1 tvg-id="" tvg-name="BBC EARTH" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTl1mMYgf17krOaE3R6wClCiR91yqigg24wzOTd_Y-HQg5zFh_8" group-title=News,BBC EARTH
 http://magco.rip:8000/41687585354413/41787452632984/27745
-#EXTINF:-1 tvg-id="" tvg-name="AL ALAM" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/al_alam.jpg" group-title=“News”,AL ALAM
+#EXTINF:-1 tvg-id="" tvg-name="AL ALAM" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/al_alam.jpg" group-title=News,AL ALAM
 http://magco.rip:8000/41687585354413/41787452632984/27743
-#EXTINF:-1 tvg-id="" tvg-name="Alarabia" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/al_arabiya_hd.jpg" group-title=“News”,Alarabia
+#EXTINF:-1 tvg-id="" tvg-name="Alarabia" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/al_arabiya_hd.jpg" group-title=News,Alarabia
 http://magco.rip:8000/41687585354413/41787452632984/27742
-#EXTINF:-1 tvg-id="" tvg-name="Alarabia HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/al_arabiya_hd.jpg" group-title=“News”,Alarabia HD
+#EXTINF:-1 tvg-id="" tvg-name="Alarabia HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/al_arabiya_hd.jpg" group-title=News,Alarabia HD
 http://magco.rip:8000/41687585354413/41787452632984/27734
-#EXTINF:-1 tvg-id="" tvg-name="Alhurra" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/alhurra_tv_us.jpg" group-title=“News”,Alhurra
+#EXTINF:-1 tvg-id="" tvg-name="Alhurra" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/alhurra_tv_us.jpg" group-title=News,Alhurra
 http://magco.rip:8000/41687585354413/41787452632984/27741
-#EXTINF:-1 tvg-id="" tvg-name="ALJAZEERA" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/al_jazeera.jpg" group-title=“News”,ALJAZEERA
+#EXTINF:-1 tvg-id="" tvg-name="ALJAZEERA" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/al_jazeera.jpg" group-title=News,ALJAZEERA
 http://magco.rip:8000/41687585354413/41787452632984/27738
-#EXTINF:-1 tvg-id="" tvg-name="ALJAZEERA HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/al_jazeera.jpg" group-title=“News”,ALJAZEERA HD
+#EXTINF:-1 tvg-id="" tvg-name="ALJAZEERA HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/al_jazeera.jpg" group-title=News,ALJAZEERA HD
 http://magco.rip:8000/41687585354413/41787452632984/86594
-#EXTINF:-1 tvg-id="" tvg-name="AlJazeera Documentary" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/al_jazeera_documentary.jpg" group-title=“News”,AlJazeera Documentary
+#EXTINF:-1 tvg-id="" tvg-name="AlJazeera Documentary" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/al_jazeera_documentary.jpg" group-title=News,AlJazeera Documentary
 http://magco.rip:8000/41687585354413/41787452632984/27737
-#EXTINF:-1 tvg-id="" tvg-name="AlJazeera English" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/al_jazeera_english.jpg" group-title=“News”,AlJazeera English
+#EXTINF:-1 tvg-id="" tvg-name="AlJazeera English" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/al_jazeera_english.jpg" group-title=News,AlJazeera English
 http://magco.rip:8000/41687585354413/41787452632984/27735
-#EXTINF:-1 tvg-id="" tvg-name="AlJazeera Mubasher" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/al_jazeera_mubasher_misr.jpg" group-title=“News”,AlJazeera Mubasher
+#EXTINF:-1 tvg-id="" tvg-name="AlJazeera Mubasher" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/al_jazeera_mubasher_misr.jpg" group-title=News,AlJazeera Mubasher
 http://magco.rip:8000/41687585354413/41787452632984/27736
-#EXTINF:-1 tvg-id="" tvg-name="AlMayadeen TV" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/al_mayadeen_tv.jpg" group-title=“News”,AlMayadeen TV
+#EXTINF:-1 tvg-id="" tvg-name="AlMayadeen TV" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/al_mayadeen_tv.jpg" group-title=News,AlMayadeen TV
 http://magco.rip:8000/41687585354413/41787452632984/27740
-#EXTINF:-1 tvg-id="" tvg-name="ANN" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/ann.jpg" group-title=“News”,ANN
+#EXTINF:-1 tvg-id="" tvg-name="ANN" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/ann.jpg" group-title=News,ANN
 http://magco.rip:8000/41687585354413/41787452632984/27733
-#EXTINF:-1 tvg-id="" tvg-name="Arabiya ALHadath" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/al_arabiya_al_hadath.jpg" group-title=“News”,Arabiya ALHadath
+#EXTINF:-1 tvg-id="" tvg-name="Arabiya ALHadath" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/al_arabiya_al_hadath.jpg" group-title=News,Arabiya ALHadath
 http://magco.rip:8000/41687585354413/41787452632984/27732
-#EXTINF:-1 tvg-id="BBC World News ARB" tvg-name="BBC W" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/bbc_world_news.jpg" group-title=“News”,BBC W
+#EXTINF:-1 tvg-id="BBC World News ARB" tvg-name="BBC W" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/bbc_world_news.jpg" group-title=News,BBC W
 http://magco.rip:8000/41687585354413/41787452632984/27744
-#EXTINF:-1 tvg-id="CGTN Russian ARB" tvg-name="CGTN Arabic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/97/CGTN_arabic.png" group-title=“News”,CGTN Arabic
+#EXTINF:-1 tvg-id="CGTN Russian ARB" tvg-name="CGTN Arabic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/97/CGTN_arabic.png" group-title=News,CGTN Arabic
 http://magco.rip:8000/41687585354413/41787452632984/27722
-#EXTINF:-1 tvg-id="CNBC Arabiya ARB" tvg-name="CNBC ARABIYA" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/cnbc_arabiya.jpg" group-title=“News”,CNBC ARABIYA
+#EXTINF:-1 tvg-id="CNBC Arabiya ARB" tvg-name="CNBC ARABIYA" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/cnbc_arabiya.jpg" group-title=News,CNBC ARABIYA
 http://magco.rip:8000/41687585354413/41787452632984/27731
-#EXTINF:-1 tvg-id="CNN International ARB" tvg-name="CNN" tvg-logo="http://archive.arabic.cnn.com/2012/middle_east/1/19/CNNArabic.celebrations/gallery.cnnarabic.logo.jpg_-1_-1.jpg" group-title=“News”,CNN
+#EXTINF:-1 tvg-id="CNN International ARB" tvg-name="CNN" tvg-logo="http://archive.arabic.cnn.com/2012/middle_east/1/19/CNNArabic.celebrations/gallery.cnnarabic.logo.jpg_-1_-1.jpg" group-title=News,CNN
 http://magco.rip:8000/41687585354413/41787452632984/27729
-#EXTINF:-1 tvg-id="DW Arabia ARB" tvg-name="DW ARABIA" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/deutsche_welle_tv_arabia.jpg" group-title=“News”,DW ARABIA
+#EXTINF:-1 tvg-id="DW Arabia ARB" tvg-name="DW ARABIA" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/deutsche_welle_tv_arabia.jpg" group-title=News,DW ARABIA
 http://magco.rip:8000/41687585354413/41787452632984/27728
-#EXTINF:-1 tvg-id="" tvg-name="EURONEWS" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/euronews.jpg" group-title=“News”,EURONEWS
+#EXTINF:-1 tvg-id="" tvg-name="EURONEWS" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/euronews.jpg" group-title=News,EURONEWS
 http://magco.rip:8000/41687585354413/41787452632984/27727
-#EXTINF:-1 tvg-id="" tvg-name="FRANCE24 arabic" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/france24_arabic.jpg" group-title=“News”,FRANCE24 arabic
+#EXTINF:-1 tvg-id="" tvg-name="FRANCE24 arabic" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/france24_arabic.jpg" group-title=News,FRANCE24 arabic
 http://magco.rip:8000/41687585354413/41787452632984/27726
-#EXTINF:-1 tvg-id="France 24 Arabic ARB" tvg-name="France24 Eng" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/france24_english.jpg" group-title=“News”,France24 Eng
+#EXTINF:-1 tvg-id="France 24 Arabic ARB" tvg-name="France24 Eng" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/france24_english.jpg" group-title=News,France24 Eng
 http://magco.rip:8000/41687585354413/41787452632984/27723
-#EXTINF:-1 tvg-id="Quest Arabiya ARB" tvg-name="Quest Arabiya" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Logo_Quest_Arabiya_2015.png" group-title=“News”,Quest Arabiya
+#EXTINF:-1 tvg-id="Quest Arabiya ARB" tvg-name="Quest Arabiya" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Logo_Quest_Arabiya_2015.png" group-title=News,Quest Arabiya
 http://magco.rip:8000/41687585354413/41787452632984/27725
-#EXTINF:-1 tvg-id="" tvg-name="RT news" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/rt_arabic.jpg" group-title=“News”,RT news
+#EXTINF:-1 tvg-id="" tvg-name="RT news" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/rt_arabic.jpg" group-title=News,RT news
 http://magco.rip:8000/41687585354413/41787452632984/27739
-#EXTINF:-1 tvg-id="Sky News Arabic ARB" tvg-name="SKY NEWS ARABIA" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/sky_uk_news_arabia.jpg" group-title=“News”,SKY NEWS ARABIA
+#EXTINF:-1 tvg-id="Sky News Arabic ARB" tvg-name="SKY NEWS ARABIA" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/sky_uk_news_arabia.jpg" group-title=News,SKY NEWS ARABIA
 http://magco.rip:8000/41687585354413/41787452632984/27730
-#EXTINF:-1 tvg-id="" tvg-name="TRT ELARABIYE" tvg-logo="http://www.algerienturc.com/wp-content/uploads/2016/12/25D9258225D9258625D825A725D825A9-TRT-25D825A725D9258425D825B925D825B125D825A825D9258A25D825A91.jpg" group-title=“News”,TRT ELARABIYE
+#EXTINF:-1 tvg-id="" tvg-name="TRT ELARABIYE" tvg-logo="http://www.algerienturc.com/wp-content/uploads/2016/12/25D9258225D9258625D825A725D825A9-TRT-25D825A725D9258425D825B925D825B125D825A825D9258A25D825A91.jpg" group-title=News,TRT ELARABIYE
 http://magco.rip:8000/41687585354413/41787452632984/27724
 
 #EXTINF:-1 tvg-id="" tvg-name="|AR| KUWAIT: ALRAI TV" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/alrai_tv.jpg" group-title=“Kuwait”, ALRAI TV
@@ -5166,321 +5166,321 @@ http://besatv.info:80/series/mata/mata1/19670.mp4
 http://besatv.info:80/series/mata/mata1/19581.mp4
 #EXTINF:-1,ExYu-s_Bitange I Princeze S05 S05E24
 http://besatv.info:80/series/mata/mata1/19669.mp4
-#EXTINF:-1,ExYu-s_Odmori Se, Zaslužio Si S01 S01E01
+#EXTINF:-1,ExYu-s_Odmori Se, Zaslu?io Si S01 S01E01
 http://besatv.info:80/series/mata/mata1/19837.mp4
-#EXTINF:-1,ExYu-s_Odmori Se, Zaslužio Si S01 S01E02
+#EXTINF:-1,ExYu-s_Odmori Se, Zaslu?io Si S01 S01E02
 http://besatv.info:80/series/mata/mata1/19836.mp4
-#EXTINF:-1,ExYu-s_Odmori Se, Zaslužio Si S01 S01E03
+#EXTINF:-1,ExYu-s_Odmori Se, Zaslu?io Si S01 S01E03
 http://besatv.info:80/series/mata/mata1/19835.mp4
-#EXTINF:-1,ExYu-s_Odmori Se, Zaslužio Si S01 S01E04
+#EXTINF:-1,ExYu-s_Odmori Se, Zaslu?io Si S01 S01E04
 http://besatv.info:80/series/mata/mata1/19834.mp4
-#EXTINF:-1,ExYu-s_Odmori Se, Zaslužio Si S01 S01E05
+#EXTINF:-1,ExYu-s_Odmori Se, Zaslu?io Si S01 S01E05
 http://besatv.info:80/series/mata/mata1/19833.mp4
-#EXTINF:-1,ExYu-s_Odmori Se, Zaslužio Si S01 S01E06
+#EXTINF:-1,ExYu-s_Odmori Se, Zaslu?io Si S01 S01E06
 http://besatv.info:80/series/mata/mata1/19832.mp4
-#EXTINF:-1,ExYu-s_Odmori Se, Zaslužio Si S01 S01E07
+#EXTINF:-1,ExYu-s_Odmori Se, Zaslu?io Si S01 S01E07
 http://besatv.info:80/series/mata/mata1/19831.mp4
-#EXTINF:-1,ExYu-s_Odmori Se, Zaslužio Si S01 S01E08
+#EXTINF:-1,ExYu-s_Odmori Se, Zaslu?io Si S01 S01E08
 http://besatv.info:80/series/mata/mata1/19830.mp4
-#EXTINF:-1,ExYu-s_Odmori Se, Zaslužio Si S01 S01E09
+#EXTINF:-1,ExYu-s_Odmori Se, Zaslu?io Si S01 S01E09
 http://besatv.info:80/series/mata/mata1/19829.mp4
-#EXTINF:-1,ExYu-s_Odmori Se, Zaslužio Si S01 S01E10
+#EXTINF:-1,ExYu-s_Odmori Se, Zaslu?io Si S01 S01E10
 http://besatv.info:80/series/mata/mata1/19828.mp4
-#EXTINF:-1,ExYu-s_Odmori Se, Zaslužio Si S01 S01E11
+#EXTINF:-1,ExYu-s_Odmori Se, Zaslu?io Si S01 S01E11
 http://besatv.info:80/series/mata/mata1/19827.mp4
-#EXTINF:-1,ExYu-s_Odmori Se, Zaslužio Si S01 S01E12
+#EXTINF:-1,ExYu-s_Odmori Se, Zaslu?io Si S01 S01E12
 http://besatv.info:80/series/mata/mata1/19826.mp4
-#EXTINF:-1,ExYu-s_Odmori Se, Zaslužio Si S01 S01E13
+#EXTINF:-1,ExYu-s_Odmori Se, Zaslu?io Si S01 S01E13
 http://besatv.info:80/series/mata/mata1/19825.mp4
-#EXTINF:-1,ExYu-s_Odmori Se, Zaslužio Si S01 S01E14
+#EXTINF:-1,ExYu-s_Odmori Se, Zaslu?io Si S01 S01E14
 http://besatv.info:80/series/mata/mata1/19824.mp4
-#EXTINF:-1,ExYu-s_Odmori Se, Zaslužio Si S02 S02E01
+#EXTINF:-1,ExYu-s_Odmori Se, Zaslu?io Si S02 S02E01
 http://besatv.info:80/series/mata/mata1/19823.mp4
-#EXTINF:-1,ExYu-s_Odmori Se, Zaslužio Si S02 S02E02
+#EXTINF:-1,ExYu-s_Odmori Se, Zaslu?io Si S02 S02E02
 http://besatv.info:80/series/mata/mata1/19822.mp4
-#EXTINF:-1,ExYu-s_Odmori Se, Zaslužio Si S02 S02E03
+#EXTINF:-1,ExYu-s_Odmori Se, Zaslu?io Si S02 S02E03
 http://besatv.info:80/series/mata/mata1/19821.mp4
-#EXTINF:-1,ExYu-s_Odmori Se, Zaslužio Si S02 S02E04
+#EXTINF:-1,ExYu-s_Odmori Se, Zaslu?io Si S02 S02E04
 http://besatv.info:80/series/mata/mata1/19820.mp4
-#EXTINF:-1,ExYu-s_Odmori Se, Zaslužio Si S02 S02E05
+#EXTINF:-1,ExYu-s_Odmori Se, Zaslu?io Si S02 S02E05
 http://besatv.info:80/series/mata/mata1/19819.mp4
-#EXTINF:-1,ExYu-s_Odmori Se, Zaslužio Si S02 S02E06
+#EXTINF:-1,ExYu-s_Odmori Se, Zaslu?io Si S02 S02E06
 http://besatv.info:80/series/mata/mata1/19818.mp4
-#EXTINF:-1,ExYu-s_Odmori Se, Zaslužio Si S02 S02E07
+#EXTINF:-1,ExYu-s_Odmori Se, Zaslu?io Si S02 S02E07
 http://besatv.info:80/series/mata/mata1/19817.mp4
-#EXTINF:-1,ExYu-s_Odmori Se, Zaslužio Si S02 S02E09
+#EXTINF:-1,ExYu-s_Odmori Se, Zaslu?io Si S02 S02E09
 http://besatv.info:80/series/mata/mata1/19816.mp4
-#EXTINF:-1,ExYu-s_Odmori Se, Zaslužio Si S02 S02E10
+#EXTINF:-1,ExYu-s_Odmori Se, Zaslu?io Si S02 S02E10
 http://besatv.info:80/series/mata/mata1/19815.mp4
-#EXTINF:-1,ExYu-s_Odmori Se, Zaslužio Si S03 S03E01
+#EXTINF:-1,ExYu-s_Odmori Se, Zaslu?io Si S03 S03E01
 http://besatv.info:80/series/mata/mata1/19814.mp4
-#EXTINF:-1,ExYu-s_Odmori Se, Zaslužio Si S03 S03E02
+#EXTINF:-1,ExYu-s_Odmori Se, Zaslu?io Si S03 S03E02
 http://besatv.info:80/series/mata/mata1/19813.mp4
-#EXTINF:-1,ExYu-s_Odmori Se, Zaslužio Si S03 S03E03
+#EXTINF:-1,ExYu-s_Odmori Se, Zaslu?io Si S03 S03E03
 http://besatv.info:80/series/mata/mata1/19812.mp4
-#EXTINF:-1,ExYu-s_Odmori Se, Zaslužio Si S03 S03E04
+#EXTINF:-1,ExYu-s_Odmori Se, Zaslu?io Si S03 S03E04
 http://besatv.info:80/series/mata/mata1/19811.mp4
-#EXTINF:-1,ExYu-s_Odmori Se, Zaslužio Si S03 S03E05
+#EXTINF:-1,ExYu-s_Odmori Se, Zaslu?io Si S03 S03E05
 http://besatv.info:80/series/mata/mata1/19810.mp4
-#EXTINF:-1,ExYu-s_Odmori Se, Zaslužio Si S03 S03E06
+#EXTINF:-1,ExYu-s_Odmori Se, Zaslu?io Si S03 S03E06
 http://besatv.info:80/series/mata/mata1/19809.mp4
-#EXTINF:-1,ExYu-s_Odmori Se, Zaslužio Si S03 S03E07
+#EXTINF:-1,ExYu-s_Odmori Se, Zaslu?io Si S03 S03E07
 http://besatv.info:80/series/mata/mata1/19808.mp4
-#EXTINF:-1,ExYu-s_Odmori Se, Zaslužio Si S03 S03E08
+#EXTINF:-1,ExYu-s_Odmori Se, Zaslu?io Si S03 S03E08
 http://besatv.info:80/series/mata/mata1/19807.mp4
-#EXTINF:-1,ExYu-s_Odmori Se, Zaslužio Si S03 S03E09
+#EXTINF:-1,ExYu-s_Odmori Se, Zaslu?io Si S03 S03E09
 http://besatv.info:80/series/mata/mata1/19806.mp4
-#EXTINF:-1,ExYu-s_Odmori Se, Zaslužio Si S03 S03E10
+#EXTINF:-1,ExYu-s_Odmori Se, Zaslu?io Si S03 S03E10
 http://besatv.info:80/series/mata/mata1/19805.mp4
-#EXTINF:-1,ExYu-s_Odmori Se, Zaslužio Si S03 S03E11
+#EXTINF:-1,ExYu-s_Odmori Se, Zaslu?io Si S03 S03E11
 http://besatv.info:80/series/mata/mata1/19804.mp4
-#EXTINF:-1,ExYu-s_Odmori Se, Zaslužio Si S03 S03E12
+#EXTINF:-1,ExYu-s_Odmori Se, Zaslu?io Si S03 S03E12
 http://besatv.info:80/series/mata/mata1/19803.mp4
-#EXTINF:-1,ExYu-s_Odmori Se, Zaslužio Si S03 S03E13
+#EXTINF:-1,ExYu-s_Odmori Se, Zaslu?io Si S03 S03E13
 http://besatv.info:80/series/mata/mata1/19802.mp4
-#EXTINF:-1,ExYu-s_Odmori Se, Zaslužio Si S03 S03E14
+#EXTINF:-1,ExYu-s_Odmori Se, Zaslu?io Si S03 S03E14
 http://besatv.info:80/series/mata/mata1/19801.mp4
-#EXTINF:-1,ExYu-s_Odmori Se, Zaslužio Si S03 S03E15
+#EXTINF:-1,ExYu-s_Odmori Se, Zaslu?io Si S03 S03E15
 http://besatv.info:80/series/mata/mata1/19800.mp4
-#EXTINF:-1,ExYu-s_Odmori Se, Zaslužio Si S04 S04E01
+#EXTINF:-1,ExYu-s_Odmori Se, Zaslu?io Si S04 S04E01
 http://besatv.info:80/series/mata/mata1/19799.mp4
-#EXTINF:-1,ExYu-s_Odmori Se, Zaslužio Si S04 S04E02
+#EXTINF:-1,ExYu-s_Odmori Se, Zaslu?io Si S04 S04E02
 http://besatv.info:80/series/mata/mata1/19798.mp4
-#EXTINF:-1,ExYu-s_Odmori Se, Zaslužio Si S04 S04E03
+#EXTINF:-1,ExYu-s_Odmori Se, Zaslu?io Si S04 S04E03
 http://besatv.info:80/series/mata/mata1/19797.mp4
-#EXTINF:-1,ExYu-s_Odmori Se, Zaslužio Si S04 S04E04
+#EXTINF:-1,ExYu-s_Odmori Se, Zaslu?io Si S04 S04E04
 http://besatv.info:80/series/mata/mata1/19796.mp4
-#EXTINF:-1,ExYu-s_Odmori Se, Zaslužio Si S04 S04E05
+#EXTINF:-1,ExYu-s_Odmori Se, Zaslu?io Si S04 S04E05
 http://besatv.info:80/series/mata/mata1/19795.mp4
-#EXTINF:-1,ExYu-s_Odmori Se, Zaslužio Si S04 S04E06
+#EXTINF:-1,ExYu-s_Odmori Se, Zaslu?io Si S04 S04E06
 http://besatv.info:80/series/mata/mata1/19794.mp4
-#EXTINF:-1,ExYu-s_Odmori Se, Zaslužio Si S04 S04E07
+#EXTINF:-1,ExYu-s_Odmori Se, Zaslu?io Si S04 S04E07
 http://besatv.info:80/series/mata/mata1/19793.mp4
-#EXTINF:-1,ExYu-s_Odmori Se, Zaslužio Si S04 S04E08
+#EXTINF:-1,ExYu-s_Odmori Se, Zaslu?io Si S04 S04E08
 http://besatv.info:80/series/mata/mata1/19792.mp4
-#EXTINF:-1,ExYu-s_Odmori Se, Zaslužio Si S04 S04E09
+#EXTINF:-1,ExYu-s_Odmori Se, Zaslu?io Si S04 S04E09
 http://besatv.info:80/series/mata/mata1/19791.mp4
-#EXTINF:-1,ExYu-s_Odmori Se, Zaslužio Si S04 S04E10
+#EXTINF:-1,ExYu-s_Odmori Se, Zaslu?io Si S04 S04E10
 http://besatv.info:80/series/mata/mata1/19790.mp4
-#EXTINF:-1,ExYu-s_Odmori Se, Zaslužio Si S04 S04E11
+#EXTINF:-1,ExYu-s_Odmori Se, Zaslu?io Si S04 S04E11
 http://besatv.info:80/series/mata/mata1/19789.mp4
-#EXTINF:-1,ExYu-s_Odmori Se, Zaslužio Si S04 S04E12
+#EXTINF:-1,ExYu-s_Odmori Se, Zaslu?io Si S04 S04E12
 http://besatv.info:80/series/mata/mata1/19788.mp4
-#EXTINF:-1,ExYu-s_Odmori Se, Zaslužio Si S04 S04E13
+#EXTINF:-1,ExYu-s_Odmori Se, Zaslu?io Si S04 S04E13
 http://besatv.info:80/series/mata/mata1/19787.mp4
-#EXTINF:-1,ExYu-s_Odmori Se, Zaslužio Si S04 S04E15
+#EXTINF:-1,ExYu-s_Odmori Se, Zaslu?io Si S04 S04E15
 http://besatv.info:80/series/mata/mata1/19786.mp4
-#EXTINF:-1,ExYu-s_Odmori Se, Zaslužio Si S05 S05E01
+#EXTINF:-1,ExYu-s_Odmori Se, Zaslu?io Si S05 S05E01
 http://besatv.info:80/series/mata/mata1/19785.mp4
-#EXTINF:-1,ExYu-s_Odmori Se, Zaslužio Si S05 S05E03
+#EXTINF:-1,ExYu-s_Odmori Se, Zaslu?io Si S05 S05E03
 http://besatv.info:80/series/mata/mata1/19784.mp4
-#EXTINF:-1,ExYu-s_Odmori Se, Zaslužio Si S05 S05E04
+#EXTINF:-1,ExYu-s_Odmori Se, Zaslu?io Si S05 S05E04
 http://besatv.info:80/series/mata/mata1/19783.mp4
-#EXTINF:-1,ExYu-s_Odmori Se, Zaslužio Si S05 S05E05
+#EXTINF:-1,ExYu-s_Odmori Se, Zaslu?io Si S05 S05E05
 http://besatv.info:80/series/mata/mata1/19782.mp4
-#EXTINF:-1,ExYu-s_Odmori Se, Zaslužio Si S05 S05E06
+#EXTINF:-1,ExYu-s_Odmori Se, Zaslu?io Si S05 S05E06
 http://besatv.info:80/series/mata/mata1/19781.mp4
-#EXTINF:-1,ExYu-s_Odmori Se, Zaslužio Si S05 S05E07
+#EXTINF:-1,ExYu-s_Odmori Se, Zaslu?io Si S05 S05E07
 http://besatv.info:80/series/mata/mata1/19780.mp4
-#EXTINF:-1,ExYu-s_Odmori Se, Zaslužio Si S05 S05E08
+#EXTINF:-1,ExYu-s_Odmori Se, Zaslu?io Si S05 S05E08
 http://besatv.info:80/series/mata/mata1/19779.mp4
-#EXTINF:-1,ExYu-s_Odmori Se, Zaslužio Si S05 S05E09
+#EXTINF:-1,ExYu-s_Odmori Se, Zaslu?io Si S05 S05E09
 http://besatv.info:80/series/mata/mata1/19778.mp4
-#EXTINF:-1,ExYu-s_Odmori Se, Zaslužio Si S05 S05E12
+#EXTINF:-1,ExYu-s_Odmori Se, Zaslu?io Si S05 S05E12
 http://besatv.info:80/series/mata/mata1/19777.mp4
-#EXTINF:-1,ExYu-s_Odmori Se, Zaslužio Si S05 S05E13
+#EXTINF:-1,ExYu-s_Odmori Se, Zaslu?io Si S05 S05E13
 http://besatv.info:80/series/mata/mata1/19776.mp4
-#EXTINF:-1,ExYu-s_Odmori Se, Zaslužio Si S05 S05E14
+#EXTINF:-1,ExYu-s_Odmori Se, Zaslu?io Si S05 S05E14
 http://besatv.info:80/series/mata/mata1/19775.mp4
-#EXTINF:-1,ExYu-s_Odmori Se, Zaslužio Si S05 S05E17
+#EXTINF:-1,ExYu-s_Odmori Se, Zaslu?io Si S05 S05E17
 http://besatv.info:80/series/mata/mata1/19774.mp4
-#EXTINF:-1,ExYu-s_Selo Gori A Baba Se cešlja S01 S01E01
+#EXTINF:-1,ExYu-s_Selo Gori A Baba Se ce?lja S01 S01E01
 http://besatv.info:80/series/mata/mata1/19931.mp4
-#EXTINF:-1,ExYu-s_Selo Gori A Baba Se cešlja S01 S01E02
+#EXTINF:-1,ExYu-s_Selo Gori A Baba Se ce?lja S01 S01E02
 http://besatv.info:80/series/mata/mata1/19930.mp4
-#EXTINF:-1,ExYu-s_Selo Gori A Baba Se cešlja S01 S01E03
+#EXTINF:-1,ExYu-s_Selo Gori A Baba Se ce?lja S01 S01E03
 http://besatv.info:80/series/mata/mata1/19929.mp4
-#EXTINF:-1,ExYu-s_Selo Gori A Baba Se cešlja S01 S01E04
+#EXTINF:-1,ExYu-s_Selo Gori A Baba Se ce?lja S01 S01E04
 http://besatv.info:80/series/mata/mata1/19928.mp4
-#EXTINF:-1,ExYu-s_Selo Gori A Baba Se cešlja S01 S01E05
+#EXTINF:-1,ExYu-s_Selo Gori A Baba Se ce?lja S01 S01E05
 http://besatv.info:80/series/mata/mata1/19927.mp4
-#EXTINF:-1,ExYu-s_Selo Gori A Baba Se cešlja S01 S01E06
+#EXTINF:-1,ExYu-s_Selo Gori A Baba Se ce?lja S01 S01E06
 http://besatv.info:80/series/mata/mata1/19926.mp4
-#EXTINF:-1,ExYu-s_Selo Gori A Baba Se cešlja S01 S01E07
+#EXTINF:-1,ExYu-s_Selo Gori A Baba Se ce?lja S01 S01E07
 http://besatv.info:80/series/mata/mata1/19925.mp4
-#EXTINF:-1,ExYu-s_Selo Gori A Baba Se cešlja S01 S01E08
+#EXTINF:-1,ExYu-s_Selo Gori A Baba Se ce?lja S01 S01E08
 http://besatv.info:80/series/mata/mata1/19924.mp4
-#EXTINF:-1,ExYu-s_Selo Gori A Baba Se cešlja S01 S01E09
+#EXTINF:-1,ExYu-s_Selo Gori A Baba Se ce?lja S01 S01E09
 http://besatv.info:80/series/mata/mata1/19923.mp4
-#EXTINF:-1,ExYu-s_Selo Gori A Baba Se cešlja S01 S01E10
+#EXTINF:-1,ExYu-s_Selo Gori A Baba Se ce?lja S01 S01E10
 http://besatv.info:80/series/mata/mata1/19922.mp4
-#EXTINF:-1,ExYu-s_Selo Gori A Baba Se cešlja S01 S01E11
+#EXTINF:-1,ExYu-s_Selo Gori A Baba Se ce?lja S01 S01E11
 http://besatv.info:80/series/mata/mata1/19921.mp4
-#EXTINF:-1,ExYu-s_Selo Gori A Baba Se cešlja S01 S01E12
+#EXTINF:-1,ExYu-s_Selo Gori A Baba Se ce?lja S01 S01E12
 http://besatv.info:80/series/mata/mata1/19920.mp4
-#EXTINF:-1,ExYu-s_Selo Gori A Baba Se cešlja S01 S01E13
+#EXTINF:-1,ExYu-s_Selo Gori A Baba Se ce?lja S01 S01E13
 http://besatv.info:80/series/mata/mata1/19919.mp4
-#EXTINF:-1,ExYu-s_Selo Gori A Baba Se cešlja S01 S01E14
+#EXTINF:-1,ExYu-s_Selo Gori A Baba Se ce?lja S01 S01E14
 http://besatv.info:80/series/mata/mata1/19918.mp4
-#EXTINF:-1,ExYu-s_Selo Gori A Baba Se cešlja S01 S01E15
+#EXTINF:-1,ExYu-s_Selo Gori A Baba Se ce?lja S01 S01E15
 http://besatv.info:80/series/mata/mata1/19917.mp4
-#EXTINF:-1,ExYu-s_Selo Gori A Baba Se cešlja S01 S01E16
+#EXTINF:-1,ExYu-s_Selo Gori A Baba Se ce?lja S01 S01E16
 http://besatv.info:80/series/mata/mata1/19916.mp4
-#EXTINF:-1,ExYu-s_Selo Gori A Baba Se cešlja S01 S01E17
+#EXTINF:-1,ExYu-s_Selo Gori A Baba Se ce?lja S01 S01E17
 http://besatv.info:80/series/mata/mata1/19915.mp4
-#EXTINF:-1,ExYu-s_Selo Gori A Baba Se cešlja S01 S01E18
+#EXTINF:-1,ExYu-s_Selo Gori A Baba Se ce?lja S01 S01E18
 http://besatv.info:80/series/mata/mata1/19914.mp4
-#EXTINF:-1,ExYu-s_Selo Gori A Baba Se cešlja S01 S01E19
+#EXTINF:-1,ExYu-s_Selo Gori A Baba Se ce?lja S01 S01E19
 http://besatv.info:80/series/mata/mata1/19913.mp4
-#EXTINF:-1,ExYu-s_Selo Gori A Baba Se cešlja S01 S01E20
+#EXTINF:-1,ExYu-s_Selo Gori A Baba Se ce?lja S01 S01E20
 http://besatv.info:80/series/mata/mata1/19912.mp4
-#EXTINF:-1,ExYu-s_Selo Gori A Baba Se cešlja S01 S01E21
+#EXTINF:-1,ExYu-s_Selo Gori A Baba Se ce?lja S01 S01E21
 http://besatv.info:80/series/mata/mata1/19911.mp4
-#EXTINF:-1,ExYu-s_Selo Gori A Baba Se cešlja S01 S01E22
+#EXTINF:-1,ExYu-s_Selo Gori A Baba Se ce?lja S01 S01E22
 http://besatv.info:80/series/mata/mata1/19910.mp4
-#EXTINF:-1,ExYu-s_Selo Gori A Baba Se cešlja S01 S01E23
+#EXTINF:-1,ExYu-s_Selo Gori A Baba Se ce?lja S01 S01E23
 http://besatv.info:80/series/mata/mata1/19909.mp4
-#EXTINF:-1,ExYu-s_Selo Gori A Baba Se cešlja S01 S01E24
+#EXTINF:-1,ExYu-s_Selo Gori A Baba Se ce?lja S01 S01E24
 http://besatv.info:80/series/mata/mata1/19908.mp4
-#EXTINF:-1,ExYu-s_Selo Gori A Baba Se cešlja S01 S01E25
+#EXTINF:-1,ExYu-s_Selo Gori A Baba Se ce?lja S01 S01E25
 http://besatv.info:80/series/mata/mata1/19907.mp4
-#EXTINF:-1,ExYu-s_Selo Gori A Baba Se cešlja S01 S01E26
+#EXTINF:-1,ExYu-s_Selo Gori A Baba Se ce?lja S01 S01E26
 http://besatv.info:80/series/mata/mata1/19906.mp4
-#EXTINF:-1,ExYu-s_Selo Gori A Baba Se cešlja S01 S01E27
+#EXTINF:-1,ExYu-s_Selo Gori A Baba Se ce?lja S01 S01E27
 http://besatv.info:80/series/mata/mata1/19905.mp4
-#EXTINF:-1,ExYu-s_Selo Gori A Baba Se cešlja S01 S01E28
+#EXTINF:-1,ExYu-s_Selo Gori A Baba Se ce?lja S01 S01E28
 http://besatv.info:80/series/mata/mata1/19904.mp4
-#EXTINF:-1,ExYu-s_Selo Gori A Baba Se cešlja S01 S01E29
+#EXTINF:-1,ExYu-s_Selo Gori A Baba Se ce?lja S01 S01E29
 http://besatv.info:80/series/mata/mata1/19903.mp4
-#EXTINF:-1,ExYu-s_Selo Gori A Baba Se cešlja S01 S01E30
+#EXTINF:-1,ExYu-s_Selo Gori A Baba Se ce?lja S01 S01E30
 http://besatv.info:80/series/mata/mata1/19902.mp4
-#EXTINF:-1,ExYu-s_Selo Gori A Baba Se cešlja S01 S01E31
+#EXTINF:-1,ExYu-s_Selo Gori A Baba Se ce?lja S01 S01E31
 http://besatv.info:80/series/mata/mata1/19901.mp4
-#EXTINF:-1,ExYu-s_Selo Gori A Baba Se cešlja S01 S01E32
+#EXTINF:-1,ExYu-s_Selo Gori A Baba Se ce?lja S01 S01E32
 http://besatv.info:80/series/mata/mata1/19900.mp4
-#EXTINF:-1,ExYu-s_Selo Gori A Baba Se cešlja S01 S01E33
+#EXTINF:-1,ExYu-s_Selo Gori A Baba Se ce?lja S01 S01E33
 http://besatv.info:80/series/mata/mata1/19899.mp4
-#EXTINF:-1,ExYu-s_Selo Gori A Baba Se cešlja S01 S01E34
+#EXTINF:-1,ExYu-s_Selo Gori A Baba Se ce?lja S01 S01E34
 http://besatv.info:80/series/mata/mata1/19898.mp4
-#EXTINF:-1,ExYu-s_Selo Gori A Baba Se cešlja S01 S01E35
+#EXTINF:-1,ExYu-s_Selo Gori A Baba Se ce?lja S01 S01E35
 http://besatv.info:80/series/mata/mata1/19897.mp4
-#EXTINF:-1,ExYu-s_Selo Gori A Baba Se cešlja S01 S01E36
+#EXTINF:-1,ExYu-s_Selo Gori A Baba Se ce?lja S01 S01E36
 http://besatv.info:80/series/mata/mata1/19896.mp4
-#EXTINF:-1,ExYu-s_Selo Gori A Baba Se cešlja S01 S01E37
+#EXTINF:-1,ExYu-s_Selo Gori A Baba Se ce?lja S01 S01E37
 http://besatv.info:80/series/mata/mata1/19895.mp4
-#EXTINF:-1,ExYu-s_Selo Gori A Baba Se cešlja S01 S01E38
+#EXTINF:-1,ExYu-s_Selo Gori A Baba Se ce?lja S01 S01E38
 http://besatv.info:80/series/mata/mata1/19894.mp4
-#EXTINF:-1,ExYu-s_Selo Gori A Baba Se cešlja S01 S01E39
+#EXTINF:-1,ExYu-s_Selo Gori A Baba Se ce?lja S01 S01E39
 http://besatv.info:80/series/mata/mata1/19893.mp4
-#EXTINF:-1,ExYu-s_Selo Gori A Baba Se cešlja S01 S01E40
+#EXTINF:-1,ExYu-s_Selo Gori A Baba Se ce?lja S01 S01E40
 http://besatv.info:80/series/mata/mata1/19892.mp4
-#EXTINF:-1,ExYu-s_Selo Gori A Baba Se cešlja S01 S01E41
+#EXTINF:-1,ExYu-s_Selo Gori A Baba Se ce?lja S01 S01E41
 http://besatv.info:80/series/mata/mata1/19891.mp4
-#EXTINF:-1,ExYu-s_Selo Gori A Baba Se cešlja S01 S01E42
+#EXTINF:-1,ExYu-s_Selo Gori A Baba Se ce?lja S01 S01E42
 http://besatv.info:80/series/mata/mata1/19890.mp4
-#EXTINF:-1,ExYu-s_Selo Gori A Baba Se cešlja S01 S01E43
+#EXTINF:-1,ExYu-s_Selo Gori A Baba Se ce?lja S01 S01E43
 http://besatv.info:80/series/mata/mata1/19889.mp4
-#EXTINF:-1,ExYu-s_Selo Gori A Baba Se cešlja S01 S01E44
+#EXTINF:-1,ExYu-s_Selo Gori A Baba Se ce?lja S01 S01E44
 http://besatv.info:80/series/mata/mata1/19888.mp4
-#EXTINF:-1,ExYu-s_Selo Gori A Baba Se cešlja S01 S01E45
+#EXTINF:-1,ExYu-s_Selo Gori A Baba Se ce?lja S01 S01E45
 http://besatv.info:80/series/mata/mata1/19887.mp4
-#EXTINF:-1,ExYu-s_Selo Gori A Baba Se cešlja S01 S01E46
+#EXTINF:-1,ExYu-s_Selo Gori A Baba Se ce?lja S01 S01E46
 http://besatv.info:80/series/mata/mata1/19886.mp4
-#EXTINF:-1,ExYu-s_Selo Gori A Baba Se cešlja S01 S01E47
+#EXTINF:-1,ExYu-s_Selo Gori A Baba Se ce?lja S01 S01E47
 http://besatv.info:80/series/mata/mata1/19885.mp4
-#EXTINF:-1,ExYu-s_Selo Gori A Baba Se cešlja S01 S01E48
+#EXTINF:-1,ExYu-s_Selo Gori A Baba Se ce?lja S01 S01E48
 http://besatv.info:80/series/mata/mata1/19884.mp4
-#EXTINF:-1,ExYu-s_Selo Gori A Baba Se cešlja S01 S01E49
+#EXTINF:-1,ExYu-s_Selo Gori A Baba Se ce?lja S01 S01E49
 http://besatv.info:80/series/mata/mata1/19883.mp4
-#EXTINF:-1,ExYu-s_Selo Gori A Baba Se cešlja S01 S01E50
+#EXTINF:-1,ExYu-s_Selo Gori A Baba Se ce?lja S01 S01E50
 http://besatv.info:80/series/mata/mata1/19882.mp4
-#EXTINF:-1,ExYu-s_Selo Gori A Baba Se cešlja S01 S01E51
+#EXTINF:-1,ExYu-s_Selo Gori A Baba Se ce?lja S01 S01E51
 http://besatv.info:80/series/mata/mata1/19881.mp4
-#EXTINF:-1,ExYu-s_Selo Gori A Baba Se cešlja S01 S01E52
+#EXTINF:-1,ExYu-s_Selo Gori A Baba Se ce?lja S01 S01E52
 http://besatv.info:80/series/mata/mata1/19880.mp4
-#EXTINF:-1,ExYu-s_Selo Gori A Baba Se cešlja S01 S01E53
+#EXTINF:-1,ExYu-s_Selo Gori A Baba Se ce?lja S01 S01E53
 http://besatv.info:80/series/mata/mata1/19879.mp4
-#EXTINF:-1,ExYu-s_Selo Gori A Baba Se cešlja S01 S01E54
+#EXTINF:-1,ExYu-s_Selo Gori A Baba Se ce?lja S01 S01E54
 http://besatv.info:80/series/mata/mata1/19878.mp4
-#EXTINF:-1,ExYu-s_Selo Gori A Baba Se cešlja S01 S01E55
+#EXTINF:-1,ExYu-s_Selo Gori A Baba Se ce?lja S01 S01E55
 http://besatv.info:80/series/mata/mata1/19877.mp4
-#EXTINF:-1,ExYu-s_Selo Gori A Baba Se cešlja S01 S01E56
+#EXTINF:-1,ExYu-s_Selo Gori A Baba Se ce?lja S01 S01E56
 http://besatv.info:80/series/mata/mata1/19876.mp4
-#EXTINF:-1,ExYu-s_Selo Gori A Baba Se cešlja S01 S01E57
+#EXTINF:-1,ExYu-s_Selo Gori A Baba Se ce?lja S01 S01E57
 http://besatv.info:80/series/mata/mata1/19875.mp4
-#EXTINF:-1,ExYu-s_Selo Gori A Baba Se cešlja S01 S01E58
+#EXTINF:-1,ExYu-s_Selo Gori A Baba Se ce?lja S01 S01E58
 http://besatv.info:80/series/mata/mata1/19874.mp4
-#EXTINF:-1,ExYu-s_Selo Gori A Baba Se cešlja S01 S01E59
+#EXTINF:-1,ExYu-s_Selo Gori A Baba Se ce?lja S01 S01E59
 http://besatv.info:80/series/mata/mata1/19873.mp4
-#EXTINF:-1,ExYu-s_Selo Gori A Baba Se cešlja S01 S01E60
+#EXTINF:-1,ExYu-s_Selo Gori A Baba Se ce?lja S01 S01E60
 http://besatv.info:80/series/mata/mata1/19872.mp4
-#EXTINF:-1,ExYu-s_Selo Gori A Baba Se cešlja S01 S01E61
+#EXTINF:-1,ExYu-s_Selo Gori A Baba Se ce?lja S01 S01E61
 http://besatv.info:80/series/mata/mata1/19871.mp4
-#EXTINF:-1,ExYu-s_Selo Gori A Baba Se cešlja S01 S01E62
+#EXTINF:-1,ExYu-s_Selo Gori A Baba Se ce?lja S01 S01E62
 http://besatv.info:80/series/mata/mata1/19870.mp4
-#EXTINF:-1,ExYu-s_Selo Gori A Baba Se cešlja S01 S01E63
+#EXTINF:-1,ExYu-s_Selo Gori A Baba Se ce?lja S01 S01E63
 http://besatv.info:80/series/mata/mata1/19869.mp4
-#EXTINF:-1,ExYu-s_Selo Gori A Baba Se cešlja S01 S01E64
+#EXTINF:-1,ExYu-s_Selo Gori A Baba Se ce?lja S01 S01E64
 http://besatv.info:80/series/mata/mata1/19868.mp4
-#EXTINF:-1,ExYu-s_Selo Gori A Baba Se cešlja S01 S01E65
+#EXTINF:-1,ExYu-s_Selo Gori A Baba Se ce?lja S01 S01E65
 http://besatv.info:80/series/mata/mata1/19867.mp4
-#EXTINF:-1,ExYu-s_Selo Gori A Baba Se cešlja S01 S01E66
+#EXTINF:-1,ExYu-s_Selo Gori A Baba Se ce?lja S01 S01E66
 http://besatv.info:80/series/mata/mata1/19866.mp4
-#EXTINF:-1,ExYu-s_Selo Gori A Baba Se cešlja S01 S01E67
+#EXTINF:-1,ExYu-s_Selo Gori A Baba Se ce?lja S01 S01E67
 http://besatv.info:80/series/mata/mata1/19865.mp4
-#EXTINF:-1,ExYu-s_Selo Gori A Baba Se cešlja S01 S01E68
+#EXTINF:-1,ExYu-s_Selo Gori A Baba Se ce?lja S01 S01E68
 http://besatv.info:80/series/mata/mata1/19864.mp4
-#EXTINF:-1,ExYu-s_Selo Gori A Baba Se cešlja S01 S01E69
+#EXTINF:-1,ExYu-s_Selo Gori A Baba Se ce?lja S01 S01E69
 http://besatv.info:80/series/mata/mata1/19863.mp4
-#EXTINF:-1,ExYu-s_Selo Gori A Baba Se cešlja S01 S01E70
+#EXTINF:-1,ExYu-s_Selo Gori A Baba Se ce?lja S01 S01E70
 http://besatv.info:80/series/mata/mata1/19862.mp4
-#EXTINF:-1,ExYu-s_Selo Gori A Baba Se cešlja S01 S01E71
+#EXTINF:-1,ExYu-s_Selo Gori A Baba Se ce?lja S01 S01E71
 http://besatv.info:80/series/mata/mata1/19861.mp4
-#EXTINF:-1,ExYu-s_Selo Gori A Baba Se cešlja S01 S01E72
+#EXTINF:-1,ExYu-s_Selo Gori A Baba Se ce?lja S01 S01E72
 http://besatv.info:80/series/mata/mata1/19860.mp4
-#EXTINF:-1,ExYu-s_Selo Gori A Baba Se cešlja S01 S01E73
+#EXTINF:-1,ExYu-s_Selo Gori A Baba Se ce?lja S01 S01E73
 http://besatv.info:80/series/mata/mata1/19859.mp4
-#EXTINF:-1,ExYu-s_Selo Gori A Baba Se cešlja S01 S01E74
+#EXTINF:-1,ExYu-s_Selo Gori A Baba Se ce?lja S01 S01E74
 http://besatv.info:80/series/mata/mata1/19858.mp4
-#EXTINF:-1,ExYu-s_Selo Gori A Baba Se cešlja S01 S01E75
+#EXTINF:-1,ExYu-s_Selo Gori A Baba Se ce?lja S01 S01E75
 http://besatv.info:80/series/mata/mata1/19857.mp4
-#EXTINF:-1,ExYu-s_Selo Gori A Baba Se cešlja S01 S01E76
+#EXTINF:-1,ExYu-s_Selo Gori A Baba Se ce?lja S01 S01E76
 http://besatv.info:80/series/mata/mata1/19856.mp4
-#EXTINF:-1,ExYu-s_Selo Gori A Baba Se cešlja S01 S01E77
+#EXTINF:-1,ExYu-s_Selo Gori A Baba Se ce?lja S01 S01E77
 http://besatv.info:80/series/mata/mata1/19855.mp4
-#EXTINF:-1,ExYu-s_Selo Gori A Baba Se cešlja S01 S01E78
+#EXTINF:-1,ExYu-s_Selo Gori A Baba Se ce?lja S01 S01E78
 http://besatv.info:80/series/mata/mata1/19854.mp4
-#EXTINF:-1,ExYu-s_Selo Gori A Baba Se cešlja S01 S01E79
+#EXTINF:-1,ExYu-s_Selo Gori A Baba Se ce?lja S01 S01E79
 http://besatv.info:80/series/mata/mata1/19853.mp4
-#EXTINF:-1,ExYu-s_Selo Gori A Baba Se cešlja S01 S01E80
+#EXTINF:-1,ExYu-s_Selo Gori A Baba Se ce?lja S01 S01E80
 http://besatv.info:80/series/mata/mata1/19852.mp4
-#EXTINF:-1,ExYu-s_Selo Gori A Baba Se cešlja S01 S01E81
+#EXTINF:-1,ExYu-s_Selo Gori A Baba Se ce?lja S01 S01E81
 http://besatv.info:80/series/mata/mata1/19851.mp4
-#EXTINF:-1,ExYu-s_Selo Gori A Baba Se cešlja S01 S01E82
+#EXTINF:-1,ExYu-s_Selo Gori A Baba Se ce?lja S01 S01E82
 http://besatv.info:80/series/mata/mata1/19850.mp4
-#EXTINF:-1,ExYu-s_Selo Gori A Baba Se cešlja S01 S01E83
+#EXTINF:-1,ExYu-s_Selo Gori A Baba Se ce?lja S01 S01E83
 http://besatv.info:80/series/mata/mata1/19849.mp4
-#EXTINF:-1,ExYu-s_Selo Gori A Baba Se cešlja S01 S01E84
+#EXTINF:-1,ExYu-s_Selo Gori A Baba Se ce?lja S01 S01E84
 http://besatv.info:80/series/mata/mata1/19848.mp4
-#EXTINF:-1,ExYu-s_Selo Gori A Baba Se cešlja S01 S01E85
+#EXTINF:-1,ExYu-s_Selo Gori A Baba Se ce?lja S01 S01E85
 http://besatv.info:80/series/mata/mata1/19847.mp4
-#EXTINF:-1,ExYu-s_Selo Gori A Baba Se cešlja S01 S01E86
+#EXTINF:-1,ExYu-s_Selo Gori A Baba Se ce?lja S01 S01E86
 http://besatv.info:80/series/mata/mata1/19846.mp4
-#EXTINF:-1,ExYu-s_Selo Gori A Baba Se cešlja S01 S01E87
+#EXTINF:-1,ExYu-s_Selo Gori A Baba Se ce?lja S01 S01E87
 http://besatv.info:80/series/mata/mata1/19845.mp4
-#EXTINF:-1,ExYu-s_Selo Gori A Baba Se cešlja S01 S01E88
+#EXTINF:-1,ExYu-s_Selo Gori A Baba Se ce?lja S01 S01E88
 http://besatv.info:80/series/mata/mata1/19844.mp4
-#EXTINF:-1,ExYu-s_Selo Gori A Baba Se cešlja S01 S01E89
+#EXTINF:-1,ExYu-s_Selo Gori A Baba Se ce?lja S01 S01E89
 http://besatv.info:80/series/mata/mata1/19843.mp4
-#EXTINF:-1,ExYu-s_Selo Gori A Baba Se cešlja S01 S01E90
+#EXTINF:-1,ExYu-s_Selo Gori A Baba Se ce?lja S01 S01E90
 http://besatv.info:80/series/mata/mata1/19842.mp4
-#EXTINF:-1,ExYu-s_Selo Gori A Baba Se cešlja S01 S01E91
+#EXTINF:-1,ExYu-s_Selo Gori A Baba Se ce?lja S01 S01E91
 http://besatv.info:80/series/mata/mata1/19841.mp4
-#EXTINF:-1,ExYu-s_Selo Gori A Baba Se cešlja S01 S01E92
+#EXTINF:-1,ExYu-s_Selo Gori A Baba Se ce?lja S01 S01E92
 http://besatv.info:80/series/mata/mata1/19840.mp4
-#EXTINF:-1,ExYu-s_Selo Gori A Baba Se cešlja S01 S01E93
+#EXTINF:-1,ExYu-s_Selo Gori A Baba Se ce?lja S01 S01E93
 http://besatv.info:80/series/mata/mata1/19839.mp4
-#EXTINF:-1,ExYu-s_Selo Gori A Baba Se cešlja S01 S01E94
+#EXTINF:-1,ExYu-s_Selo Gori A Baba Se ce?lja S01 S01E94
 http://besatv.info:80/series/mata/mata1/19838.mp4
 #EXTINF:-1,Game Of Thrones S01 S01E01
 http://besatv.info:80/series/mata/mata1/19932.mp4
@@ -10278,15 +10278,15 @@ http://besatv.info:80/series/mata/mata1/15603.mp4
 http://besatv.info:80/series/mata/mata1/15604.mp4
 #EXTINF:-1,TR_Kosem S01 S01E60
 http://besatv.info:80/series/mata/mata1/15605.mp4
-#EXTINF:-1,Černobil ( Chernobyl ) S01 S01E01
+#EXTINF:-1,?ernobil ( Chernobyl ) S01 S01E01
 http://besatv.info:80/series/mata/mata1/23821.mp4
-#EXTINF:-1,Černobil ( Chernobyl ) S01 S01E02
+#EXTINF:-1,?ernobil ( Chernobyl ) S01 S01E02
 http://besatv.info:80/series/mata/mata1/23822.mp4
-#EXTINF:-1,Černobil ( Chernobyl ) S01 S01E03
+#EXTINF:-1,?ernobil ( Chernobyl ) S01 S01E03
 http://besatv.info:80/series/mata/mata1/23823.mp4
-#EXTINF:-1,Černobil ( Chernobyl ) S01 S01E04
+#EXTINF:-1,?ernobil ( Chernobyl ) S01 S01E04
 http://besatv.info:80/series/mata/mata1/23824.mp4
-#EXTINF:-1,Černobil ( Chernobyl ) S01 S01E05
+#EXTINF:-1,?ernobil ( Chernobyl ) S01 S01E05
 http://besatv.info:80/series/mata/mata1/23857.mp4
 #EXTINF:-1,ExYu-s_Vojna Akademija S01 S01E01
 http://besatv.info:80/series/mata/mata1/23873.mp4
@@ -10404,75 +10404,75 @@ http://besatv.info:80/series/mata/mata1/26617.mp4
 http://besatv.info:80/series/mata/mata1/26618.mp4
 #EXTINF:-1,ExYu-s_Vojna Akademija S05 S05E10
 http://besatv.info:80/series/mata/mata1/26619.mp4
-#EXTINF:-1,ExYu-s_Dobro Jutro Komšija S01 S01E01
+#EXTINF:-1,ExYu-s_Dobro Jutro Kom?ija S01 S01E01
 http://besatv.info:80/series/mata/mata1/23884.mp4
-#EXTINF:-1,ExYu-s_Dobro Jutro Komšija S01 S01E02
+#EXTINF:-1,ExYu-s_Dobro Jutro Kom?ija S01 S01E02
 http://besatv.info:80/series/mata/mata1/23885.mp4
-#EXTINF:-1,ExYu-s_Dobro Jutro Komšija S01 S01E03
+#EXTINF:-1,ExYu-s_Dobro Jutro Kom?ija S01 S01E03
 http://besatv.info:80/series/mata/mata1/23886.mp4
-#EXTINF:-1,ExYu-s_Dobro Jutro Komšija S01 S01E04
+#EXTINF:-1,ExYu-s_Dobro Jutro Kom?ija S01 S01E04
 http://besatv.info:80/series/mata/mata1/23887.mp4
-#EXTINF:-1,ExYu-s_Dobro Jutro Komšija S01 S01E05
+#EXTINF:-1,ExYu-s_Dobro Jutro Kom?ija S01 S01E05
 http://besatv.info:80/series/mata/mata1/23888.mp4
-#EXTINF:-1,ExYu-s_Dobro Jutro Komšija S01 S01E06
+#EXTINF:-1,ExYu-s_Dobro Jutro Kom?ija S01 S01E06
 http://besatv.info:80/series/mata/mata1/23889.mp4
-#EXTINF:-1,ExYu-s_Dobro Jutro Komšija S01 S01E07
+#EXTINF:-1,ExYu-s_Dobro Jutro Kom?ija S01 S01E07
 http://besatv.info:80/series/mata/mata1/23890.mp4
-#EXTINF:-1,ExYu-s_Dobro Jutro Komšija S01 S01E08
+#EXTINF:-1,ExYu-s_Dobro Jutro Kom?ija S01 S01E08
 http://besatv.info:80/series/mata/mata1/23891.mp4
-#EXTINF:-1,ExYu-s_Dobro Jutro Komšija S01 S01E09
+#EXTINF:-1,ExYu-s_Dobro Jutro Kom?ija S01 S01E09
 http://besatv.info:80/series/mata/mata1/23892.mp4
-#EXTINF:-1,ExYu-s_Dobro Jutro Komšija S01 S01E10
+#EXTINF:-1,ExYu-s_Dobro Jutro Kom?ija S01 S01E10
 http://besatv.info:80/series/mata/mata1/23893.mp4
-#EXTINF:-1,ExYu-s_Dobro Jutro Komšija S01 S01E11
+#EXTINF:-1,ExYu-s_Dobro Jutro Kom?ija S01 S01E11
 http://besatv.info:80/series/mata/mata1/23894.mp4
-#EXTINF:-1,ExYu-s_Dobro Jutro Komšija S01 S01E12
+#EXTINF:-1,ExYu-s_Dobro Jutro Kom?ija S01 S01E12
 http://besatv.info:80/series/mata/mata1/23895.mp4
-#EXTINF:-1,ExYu-s_Dobro Jutro Komšija S01 S01E13
+#EXTINF:-1,ExYu-s_Dobro Jutro Kom?ija S01 S01E13
 http://besatv.info:80/series/mata/mata1/23896.mp4
-#EXTINF:-1,ExYu-s_Dobro Jutro Komšija S01 S01E14
+#EXTINF:-1,ExYu-s_Dobro Jutro Kom?ija S01 S01E14
 http://besatv.info:80/series/mata/mata1/23897.mp4
-#EXTINF:-1,ExYu-s_Dobro Jutro Komšija S01 S01E15
+#EXTINF:-1,ExYu-s_Dobro Jutro Kom?ija S01 S01E15
 http://besatv.info:80/series/mata/mata1/23898.mp4
-#EXTINF:-1,ExYu-s_Dobro Jutro Komšija S01 S01E16
+#EXTINF:-1,ExYu-s_Dobro Jutro Kom?ija S01 S01E16
 http://besatv.info:80/series/mata/mata1/23899.mp4
-#EXTINF:-1,ExYu-s_Dobro Jutro Komšija S01 S01E17
+#EXTINF:-1,ExYu-s_Dobro Jutro Kom?ija S01 S01E17
 http://besatv.info:80/series/mata/mata1/23900.mp4
-#EXTINF:-1,ExYu-s_Dobro Jutro Komšija S01 S01E18
+#EXTINF:-1,ExYu-s_Dobro Jutro Kom?ija S01 S01E18
 http://besatv.info:80/series/mata/mata1/23901.mp4
-#EXTINF:-1,ExYu-s_Dobro Jutro Komšija S01 S01E19
+#EXTINF:-1,ExYu-s_Dobro Jutro Kom?ija S01 S01E19
 http://besatv.info:80/series/mata/mata1/23915.mp4
-#EXTINF:-1,ExYu-s_Dobro Jutro Komšija S01 S01E20
+#EXTINF:-1,ExYu-s_Dobro Jutro Kom?ija S01 S01E20
 http://besatv.info:80/series/mata/mata1/24103.mp4
-#EXTINF:-1,ExYu-s_Dobro Jutro Komšija S02 S02E01
+#EXTINF:-1,ExYu-s_Dobro Jutro Kom?ija S02 S02E01
 http://besatv.info:80/series/mata/mata1/24327.mp4
-#EXTINF:-1,ExYu-s_Dobro Jutro Komšija S02 S02E02
+#EXTINF:-1,ExYu-s_Dobro Jutro Kom?ija S02 S02E02
 http://besatv.info:80/series/mata/mata1/28567.mp4
-#EXTINF:-1,ExYu-s_Dobro Jutro Komšija S02 S02E03
+#EXTINF:-1,ExYu-s_Dobro Jutro Kom?ija S02 S02E03
 http://besatv.info:80/series/mata/mata1/28590.mp4
-#EXTINF:-1,ExYu-s_Dobro Jutro Komšija S02 S02E04
+#EXTINF:-1,ExYu-s_Dobro Jutro Kom?ija S02 S02E04
 http://besatv.info:80/series/mata/mata1/28591.mp4
-#EXTINF:-1,ExYu-s_Dobro Jutro Komšija S02 S02E05
+#EXTINF:-1,ExYu-s_Dobro Jutro Kom?ija S02 S02E05
 http://besatv.info:80/series/mata/mata1/28592.mp4
-#EXTINF:-1,ExYu-s_Dobro Jutro Komšija S02 S02E06
+#EXTINF:-1,ExYu-s_Dobro Jutro Kom?ija S02 S02E06
 http://besatv.info:80/series/mata/mata1/28593.mp4
-#EXTINF:-1,ExYu-s_Dobro Jutro Komšija S02 S02E07
+#EXTINF:-1,ExYu-s_Dobro Jutro Kom?ija S02 S02E07
 http://besatv.info:80/series/mata/mata1/28594.mp4
-#EXTINF:-1,ExYu-s_Dobro Jutro Komšija S02 S02E08
+#EXTINF:-1,ExYu-s_Dobro Jutro Kom?ija S02 S02E08
 http://besatv.info:80/series/mata/mata1/28595.mp4
-#EXTINF:-1,ExYu-s_Dobro Jutro Komšija S02 S02E09
+#EXTINF:-1,ExYu-s_Dobro Jutro Kom?ija S02 S02E09
 http://besatv.info:80/series/mata/mata1/28596.mp4
-#EXTINF:-1,ExYu-s_Dobro Jutro Komšija S02 S02E10
+#EXTINF:-1,ExYu-s_Dobro Jutro Kom?ija S02 S02E10
 http://besatv.info:80/series/mata/mata1/28597.mp4
-#EXTINF:-1,ExYu-s_Dobro Jutro Komšija S02 S02E11
+#EXTINF:-1,ExYu-s_Dobro Jutro Kom?ija S02 S02E11
 http://besatv.info:80/series/mata/mata1/28626.mp4
-#EXTINF:-1,ExYu-s_Dobro Jutro Komšija S02 S02E12
+#EXTINF:-1,ExYu-s_Dobro Jutro Kom?ija S02 S02E12
 http://besatv.info:80/series/mata/mata1/28627.mp4
-#EXTINF:-1,ExYu-s_Dobro Jutro Komšija S02 S02E13
+#EXTINF:-1,ExYu-s_Dobro Jutro Kom?ija S02 S02E13
 http://besatv.info:80/series/mata/mata1/28761.mp4
-#EXTINF:-1,ExYu-s_Dobro Jutro Komšija S02 S02E14
+#EXTINF:-1,ExYu-s_Dobro Jutro Kom?ija S02 S02E14
 http://besatv.info:80/series/mata/mata1/28762.mp4
-#EXTINF:-1,ExYu-s_Dobro Jutro Komšija S02 S02E15
+#EXTINF:-1,ExYu-s_Dobro Jutro Kom?ija S02 S02E15
 http://besatv.info:80/series/mata/mata1/28630.mp4
 #EXTINF:-1,ExYu-S_Novine  ( The Paper ) S01 S01E01
 http://besatv.info:80/series/mata/mata1/23902.mp4
