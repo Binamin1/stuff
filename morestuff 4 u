@@ -80,7 +80,7 @@
 	
 
 	#EXTINF:-1 tvg-id="" tvg-name="|AR| KUWAIT: ALRAI TV" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/alrai_tv.jpg" group-title=Kuwait, ALRAI TV
-	http://magco.rip:8000/41687585354413/41787452632984/27698
+http://stream02.fasttelco.net/4/pub/asset/28/streams.m3u8?v=1053886998&checkedby:iptvcat.com
 	#EXTINF:-1 tvg-id="" tvg-name="|AR| KUWAIT: FUNoon" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/funoon_tv.jpg" group-title=Kuwait, FUNoon
 	http://magco.rip:8000/41687585354413/41787452632984/27699
 	#EXTINF:-1 tvg-id="" tvg-name="|AR| KUWAIT: KUWAIT 1" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/ktv_1.jpg" group-title=Kuwait, KUWAIT 1
@@ -99,6 +99,7 @@
 	http://magco.rip:8000/41687585354413/41787452632984/27691
 	#EXTINF:-1 tvg-id="" tvg-name="|AR| KUWAIT: KUWAIT SPORTS" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/ktv_sport.jpg" group-title=Kuwait, KUWAIT SPORTS
 	http://magco.rip:8000/41687585354413/41787452632984/27690
+	
 	
 
 	#EXTINF:-1 tvg-id="Saudi Sport 1 HD ARB" tvg-name=“KSA Sports 1" tvg-logo="http://www.goalzz.com/images/0safi/2018/ksasport.jpg" group-title=Sports,|AR| SPORT: KSA Sports 1
