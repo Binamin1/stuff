@@ -1,0 +1,117 @@
+#EXTM3U
+#PLAYLIST:iptvcat.com
+#EXTINF:0 tvg-country="SA" tvg-logo="https://i.imgur.com/xhlZOq5.png" group-title="News",Al Arabiya
+https://shls-alarabiya-prod.shahid.net/alarabiya-prod_1.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/rLR5q2x.png" group-title="News",Al Arabiya Al Hadath
+https://av.alarabiya.net/alarabiapublish/alhadath.smil/playlist_1080p.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BH" tvg-logo="https://i.imgur.com/WUvqhAZ.png" group-title="News",BAHRAIN TV
+http://185.105.4.106:1935/live/Bahrain%20TV/chunklist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="KW" tvg-logo="https://i.imgur.com/eqCEXk6.png" group-title="News",Alrai TV
+https://stream02.fasttelco.net/live/alrai.stream/chunklist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/9Bun2IX.png" group-title="News",Majid TV
+https://admdn4.cdn.mangomolo.com/majid/smil:majid.stream.smil/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="MY" tvg-logo="https://i.pinimg.com/originals/3f/28/24/3f2824b44501c45b4f2fd4ac7d637268.jpg" group-title="News",DUBAI TV (1920×1080)
+http://dmisxthvll.cdn.mangomolo.com/dubaitv/smil:dubaitv.stream.smil/chunklist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RU" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/768px-Russia-today-logo.svg.png" group-title="News",RT Arabic
+https://rt-arab.secure.footprint.net/1104_2500Kb.m3u8?checkedby:iptvcat.comi
+#EXTINF:0 tvg-country="MY" tvg-logo="https://lh3.googleusercontent.com/proxy/5CzO5uhidhMgDddYSncn_7HvixfBDeF_BcCAz5hL8_CR3zdjTtE0-iCc4QIservxuLF7agkmqpPwmHKn0VH6mZ27YrAdg4VdEHRibzqSGoi1XjCllP8" group-title="News",Al Jazeera
+http://46.60.1.82:8081/live/hdmi2/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="MY" tvg-logo="https://lh3.googleusercontent.com/proxy/5CzO5uhidhMgDddYSncn_7HvixfBDeF_BcCAz5hL8_CR3zdjTtE0-iCc4QIservxuLF7agkmqpPwmHKn0VH6mZ27YrAdg4VdEHRibzqSGoi1XjCllP8" group-title="News",AL Jazeera Mubasher
+https://edge-1192-ch-gv.filmon.com/live/3032.high.stream/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="QA" tvg-logo="https://i.imgur.com/BB93NQP.png" group-title="News",Al Jazeera English
+https://live-hls-web-aje.getaj.net/AJE/01.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="QA" tvg-logo="https://i.imgur.com/El2hhYb.png" group-title="News",Al Jazeera Documentary
+https://live-hls-web-ajd.getaj.net/AJD/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="OM" tvg-logo="https://i.imgur.com/C7kfubs.png" group-title="News",Oman TV
+http://partne.cdn.mangomolo.com/omantv/smil:omantv.stream.smil/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="OM" tvg-logo="https://i.imgur.com/sRlAGQD.png" group-title="News",Oman TV Cultural
+http://partwo.cdn.mangomolo.com/omcultural/smil:omcultural.stream.smil/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="OM" tvg-logo="https://i.imgur.com/stADjXC.png" group-title="News",Oman TV Mubashir
+http://partwo.cdn.mangomolo.com/omlive/smil:omlive.stream.smil/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="https://data.bloomberglp.com/company/sites/51/2019/08/og-image-generic-lp.png" group-title="News",Bloomberg
+http://iptv1.privateiptv.club:80/freeview/freeview/641?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/eKBXOKd.png" group-title="MBC",MBC 1
+https://shls-mbc1ksa-prod.shahid.net/mbc1ksa-prod_1.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/KXuzL1u.png" group-title="MBC",MBC 2
+https://shls-mbc2-prod.shahid.net/mbc2-prod_1.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/FVNVC73.png" group-title="MBC",MBC 3
+https://shls-mbc3-prod.shahid.net/mbc3-prod_1.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/pfF61uH.png" group-title="MBC",MBC 4
+https://shls-mbc4-prod.shahid.net/mbc4-prod_1.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/n3TgfP0.png" group-title="MBC",MBC Action
+https://shls-mbcaction-prod.shahid.net/mbcaction-prod_1.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/X6EliFm.png" group-title="MBC",MBC Max
+https://shls-mbcmax-prod.shahid.net/mbcmax-prod_1.m3u8?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="GB" tvg-logo="https://www.freeview.co.uk/sites/default/files/styles/255_wide/public/2019-10/Sony-movies-255x140_0.png?itok=42k3kEDn" group-title="Entertainment",Sony Movies Action
+http://iptv1.privateiptv.club:80/freeview/freeview/57?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="https://www.classicmoviehub.com/blog/wp-content/uploads/2016/02/classic_movies_and_more_youtube_show_logo_square.jpg" group-title="Entertainment",Classic Movies
+https://stitcher.pluto.tv/stitch/hls/channel/569546031a619b8f07ce6e25/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=6e360db0-724b-11e8-be77-bf4d1417b012&deviceId=889540f0-712d-11e8-b9ec-8ba319deeadf&deviceVersion=37.0.2049.0&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.5783&deviceLon=-90.6666&app_name=&appName=&appStoreUrl=&serverSideAds=true&checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="https://i.imgur.com/cQZdGc0.png" group-title="Entertainment",Filmrise Movies
+https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-filmrisefreemovies/CDN/1280x720_5000000/chunklist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="https://i.imgur.com/H2hD4vT.png" group-title="Entertainment",Gravitas Movies
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxgravitas/CDN/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="https://i.imgur.com/SAfy1us.png" group-title="Entertainment",STIRR Comedy
+https://dai.google.com/linear/hls/event/dGP9Z-PNRPCgGQSDEzxqYg/master.m3u8?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="AE" tvg-logo="https://cdn.sat.tv/wp-content/uploads/2017/03/AbuDhabiNatGeo.png" group-title="Educational",AD Nat Geo
+http://37.235.38.131:4000/play/a02g/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/1200px-Russia-today-logo.svg.png" group-title="Educational",RT Documentary
+http://rt-doc.secure.footprint.net/1101_2500Kb.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="https://www.adgully.com/img/800/201907/animal-ka-planet.jpg" group-title="Educational",Animal Planet
+http://4tv.site:80/live/douglas1155/4187731155/34615.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="https://b2b.liberationroute.com/wp-content/uploads/2020/01/History-Channel-logo-grey.png" group-title="Educational",HISTORY Channel
+http://4tv.site:80/live/douglas1155/4187731155/18248.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="https://seeklogo.com/images/D/discovery-logo-F9B62F9429-seeklogo.com.png" group-title="Educational",DISCOVERY Science
+http://4tv.site:80/live/douglas1155/4187731155/18219.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="https://seeklogo.com/images/D/discovery-logo-F9B62F9429-seeklogo.com.png" group-title="Educational",DISCOVERY Theatre
+http://4tv.site:80/live/douglas1155/4187731155/18220.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="https://seeklogo.com/images/D/discovery-logo-F9B62F9429-seeklogo.com.png" group-title="Educational",DISCOVERY Turbo
+http://4tv.site:80/live/douglas1155/4187731155/34939.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="https://seeklogo.com/images/D/discovery-logo-F9B62F9429-seeklogo.com.png" group-title="Educational",DISCOVERY Channel
+http://178.217.72.66:80/225.201.2.50/tracks-v1a1/mono.m3u8?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="GB" tvg-logo="https://lh3.googleusercontent.com/proxy/QkGdi1h2q3J76aqBzjXT6idBqdGWW8BC-3KzqjyxFAJo6bh_t28U3PBo0OytV0ZCmXBJkbUU2GgTNtvCTPalVyT_bizGiiguVvpsL52DxII" group-title="BBC",BBC One
+http://iptv1.privateiptv.club:80/freeview/freeview/807?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="https://lh3.googleusercontent.com/proxy/QkGdi1h2q3J76aqBzjXT6idBqdGWW8BC-3KzqjyxFAJo6bh_t28U3PBo0OytV0ZCmXBJkbUU2GgTNtvCTPalVyT_bizGiiguVvpsL52DxII" group-title="BBC",BBC Two
+http://iptv1.privateiptv.club:80/live/freeview/freeview/814.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="https://lh3.googleusercontent.com/proxy/QkGdi1h2q3J76aqBzjXT6idBqdGWW8BC-3KzqjyxFAJo6bh_t28U3PBo0OytV0ZCmXBJkbUU2GgTNtvCTPalVyT_bizGiiguVvpsL52DxII" group-title="BBC",BBC Four 
+http://iptv1.privateiptv.club:80/freeview/freeview/819?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="https://lh3.googleusercontent.com/proxy/QkGdi1h2q3J76aqBzjXT6idBqdGWW8BC-3KzqjyxFAJo6bh_t28U3PBo0OytV0ZCmXBJkbUU2GgTNtvCTPalVyT_bizGiiguVvpsL52DxII" group-title="BBC",BBC News 
+http://iptv1.privateiptv.club:80/live/freeview/freeview/825.m3u8?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/8VqomZ5.png" group-title="Sports",Abu Dhabi Sports 1
+http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports1&checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/U6XDpXY.png" group-title="Sports",Abu Dhabi Sports 3
+http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_Sports3&checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/8VqomZ5.png" group-title="Sports",Abu Dhabi Sports 4
+http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_Sports4&checkedby:iptvcat.com
+#EXTINF:0 tvg-country="MY" tvg-logo="https://strapi-cms.s3.ap-southeast-1.amazonaws.com/4080ebdf8d864d14b5c939b4097ef5f0.png" group-title="Sports",Dubai Sports 1
+http://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports/chunklist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="MY" tvg-logo="https://i.imgur.com/KDHJryj.png" group-title="Sports",Dubai Sports 2
+http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="MY;AE" tvg-logo="https://i.imgur.com/IaRaabJ.jpg" group-title="Sports",Sharjah Sports
+https://svs.itworkscdn.net/smc4sportslive/smc4.smil/chunklist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="" tvg-logo="https://www.kindpng.com/picc/m/599-5998237_ksa-sports-logo-png-png-download-ksa-sports.png" group-title="Sports",KSA Sports +1
+http://37.235.38.131:4000/play/a029/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="" tvg-logo="https://www.kindpng.com/picc/m/599-5998237_ksa-sports-logo-png-png-download-ksa-sports.png" group-title="Sports",KSA Sports +2
+http://37.235.38.131:4000/play/a025/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="MY" tvg-logo="https://media-exp1.licdn.com/dms/image/C4D0BAQHUzTtm1pBL3w/company-logo_200_200/0?e=2159024400&v=beta&t=NyMOlgHa39TvU8F5c38s9F2mWGtgo00WOp71oTaAGr0" group-title="Sports",Al Kass Sports 1
+http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass1&checkedby:iptvcat.com
+#EXTINF:0 tvg-country="MY" tvg-logo="https://media-exp1.licdn.com/dms/image/C4D0BAQHUzTtm1pBL3w/company-logo_200_200/0?e=2159024400&v=beta&t=NyMOlgHa39TvU8F5c38s9F2mWGtgo00WOp71oTaAGr0" group-title="Sports",Al Kass Sports 2
+http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass2&checkedby:iptvcat.com
+#EXTINF:0 tvg-country="MY" tvg-logo="https://media-exp1.licdn.com/dms/image/C4D0BAQHUzTtm1pBL3w/company-logo_200_200/0?e=2159024400&v=beta&t=NyMOlgHa39TvU8F5c38s9F2mWGtgo00WOp71oTaAGr0" group-title="Sports",Al Kass Sports 3
+http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass3&checkedby:iptvcat.com
+#EXTINF:0 tvg-country="MY" tvg-logo="https://media-exp1.licdn.com/dms/image/C4D0BAQHUzTtm1pBL3w/company-logo_200_200/0?e=2159024400&v=beta&t=NyMOlgHa39TvU8F5c38s9F2mWGtgo00WOp71oTaAGr0" group-title="Sports",Al Kass Sports 4
+http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass4&checkedby:iptvcat.com
+#EXTINF:0 tvg-country="MY" tvg-logo="https://media-exp1.licdn.com/dms/image/C4D0BAQHUzTtm1pBL3w/company-logo_200_200/0?e=2159024400&v=beta&t=NyMOlgHa39TvU8F5c38s9F2mWGtgo00WOp71oTaAGr0" group-title="Sports",Al Kass Sports 5
+http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass5&checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BH" tvg-logo="https://i.imgur.com/G9BMhDS.png" group-title="Sports",Bahrain Sport 1
+http://185.105.4.106:1935/live/Bahrain%20Sports/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="MY" tvg-logo="https://pbs.twimg.com/profile_images/1225458959697530884/9b6y_bZI_400x400.jpg" group-title="Sports",Dubai Racing 1 
+http://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="MY" tvg-logo="https://pbs.twimg.com/profile_images/1225458959697530884/9b6y_bZI_400x400.jpg" group-title="Sports",Dubai Racing 2 
+http://dmithrvll.cdn.mangomolo.com/dubairacing/smil:dubairacing.smil/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="MY" tvg-logo="https://pbs.twimg.com/profile_images/1225458959697530884/9b6y_bZI_400x400.jpg" group-title="Sports",Dubai Racing 3 
+http://dmithrvll.cdn.mangomolo.com/dubaimubasher/smil:dubaimubasher.smil/playlist.m3u8?checkedby:iptvcat.com
