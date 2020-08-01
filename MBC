@@ -1,6 +1,6 @@
 #EXTM3U
 #PLAYLIST:iptvcat.com
-#EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/eKBXOKd.png" group-title="MBC",MBC
+#EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/eKBXOKd.png" group-title="MBC",MBC 1
 https://shls-mbc1ksa-prod.shahid.net/mbc1ksa-prod_1.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/KXuzL1u.png" group-title="MBC",MBC 2
 https://shls-mbc2-prod.shahid.net/mbc2-prod_1.m3u8?checkedby:iptvcat.com
