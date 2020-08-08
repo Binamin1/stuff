@@ -12,6 +12,8 @@ https://stream02.fasttelco.net/live/alrai.stream/chunklist.m3u8?checkedby:iptvca
 http://dmisxthvll.cdn.mangomolo.com/dubaitv/smil:dubaitv.stream.smil/chunklist.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="RU" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/768px-Russia-today-logo.svg.png" group-title="News",RT Arabic
 https://rt-arab.secure.footprint.net/1104_2500Kb.m3u8?checkedby:iptvcat.comi
+#EXTINF:-1 tvg-country=“US” tvg-logo="https://www.kcrw.com/news/shows/press-play-with-madeleine-brand/a-rare-voice-for-balance-goes-silent-at-fox-news/@@images/rectangular_image/page-header?v=1571186920.39" group-title="News",FOX News 
+http://ip.tv4k.be:8000/sedat/123456/49370
 #EXTINF:0 tvg-country="MY" tvg-logo="https://lh3.googleusercontent.com/proxy/5CzO5uhidhMgDddYSncn_7HvixfBDeF_BcCAz5hL8_CR3zdjTtE0-iCc4QIservxuLF7agkmqpPwmHKn0VH6mZ27YrAdg4VdEHRibzqSGoi1XjCllP8" group-title="News",Al Jazeera
 http://46.60.1.82:8081/live/hdmi2/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="MY" tvg-logo="https://lh3.googleusercontent.com/proxy/5CzO5uhidhMgDddYSncn_7HvixfBDeF_BcCAz5hL8_CR3zdjTtE0-iCc4QIservxuLF7agkmqpPwmHKn0VH6mZ27YrAdg4VdEHRibzqSGoi1XjCllP8" group-title="News",AL Jazeera Mubasher
@@ -66,8 +68,6 @@ http://ip.tv4k.be:8000/sedat/123456/49361
 http://ip.tv4k.be:8000/sedat/123456/49360
 #EXTINF:-1 tvg-country=“AE” tvg-logo="https://neulioneuosn-a.akamaihd.net/u/osn/wavo/thumbs/channels/OSN-MOVIES.png" group-title="Entertainment",OSN MOVIES 
 http://ip.tv4k.be:8000/sedat/123456/49365
-#EXTINF:-1 tvg-country=“AE” tvg-logo="https://neulioneuosn-a.akamaihd.net/u/osn/wavo/thumbs/channels/OSN-MOVIES.png" group-title="Entertainment",OSN MOVIES KIDS 
-http://ip.tv4k.be:8000/sedat/123456/49370
 #EXTINF:-1 tvg-country=“AE” tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/MTV_Live_HD_2013_logo.svg" group-title="Entertainment",MTV LIVE 
 http://ip.tv4k.be:8000/sedat/123456/49343
 #EXTINF:-1 tvg-country=“AE” tvg-logo="https://seeklogo.com/images/P/paramount-network-logo-B1F5D3F4FA-seeklogo.com.png" group-title="Entertainment",PARAMOUNT
