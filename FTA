@@ -103,7 +103,7 @@ http://ip.tv4k.be:8000/sedat/123456/49362
 http://ip.tv4k.be:8000/sedat/123456/49382
 #EXTINF:-1 tvg-country=“AE” tvg-logo="https://d3dh6of9cnaq4t.cloudfront.net/Pictures/2000x2000fit/7/3/5/6735_animalplanetnewlogo2018_906859.jpg" group-title="Educational",ANIMAL PLANET
 http://ip.tv4k.be:8000/sedat/123456/49349
-#EXTINF:-1 tvg-country=“AE” tvg-logo="https://cdn.worldvectorlogo.com/logos/living-tv.svg" group-title="Educational",LIVING
+#EXTINF:-1 tvg-country=“AE” tvg-logo="https://www.sky.co.nz/documents/24003/39746/Living_Logo_250x180.png/8cbc5f2f-1588-3408-16bc-efb40f9ff2ab?t=1578349448834" group-title="Educational",LIVING
 http://ip.tv4k.be:8000/sedat/123456/49364
 #EXTINF:0 tvg-country="UN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/1200px-Russia-today-logo.svg.png" group-title="Educational",RT Documentary
 http://rt-doc.secure.footprint.net/1101_2500Kb.m3u8?checkedby:iptvcat.com
