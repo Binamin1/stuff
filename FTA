@@ -8,8 +8,6 @@ https://av.alarabiya.net/alarabiapublish/alhadath.smil/playlist_1080p.m3u8?check
 http://185.105.4.106:1935/live/Bahrain%20TV/chunklist.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="KW" tvg-logo="https://i.imgur.com/eqCEXk6.png" group-title="News",Alrai TV
 https://stream02.fasttelco.net/live/alrai.stream/chunklist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/9Bun2IX.png" group-title="News",Majid TV
-https://admdn4.cdn.mangomolo.com/majid/smil:majid.stream.smil/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="MY" tvg-logo="https://i.pinimg.com/originals/3f/28/24/3f2824b44501c45b4f2fd4ac7d637268.jpg" group-title="News",DUBAI TV (1920×1080)
 http://dmisxthvll.cdn.mangomolo.com/dubaitv/smil:dubaitv.stream.smil/chunklist.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="RU" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/768px-Russia-today-logo.svg.png" group-title="News",RT Arabic
