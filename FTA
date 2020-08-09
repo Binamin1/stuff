@@ -46,65 +46,11 @@ https://shls-mbcmax-prod.shahid.net/mbcmax-prod_1.m3u8?checkedby:iptvcat.com
 
 #EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/WjJ8MHC.png" group-title="Entertainment",Dubai One
 https://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 tvg-country=“AE” tvg-logo="https://www.ethnicchannels.com/images/channeldetail/osn-ya-hala/osn-ya-hala-logo.png" group-title="Entertainment",YAHALA
-http://ip.tv4k.be:8000/sedat/123456/45729
-#EXTINF:-1 tvg-country=“AE” tvg-logo="https://www.ethnicchannels.com/images/channeldetail/osn-ya-hala/osn-ya-hala-logo.png" group-title="Entertainment",YAHALA 1
-http://ip.tv4k.be:8000/sedat/123456/45730
-#EXTINF:-1 tvg-country=“AE” tvg-logo="https://www.ethnicchannels.com/images/channeldetail/osn-ya-hala/osn-ya-hala-logo.png" group-title="Entertainment",YAHALA CINEMA
-http://ip.tv4k.be:8000/sedat/123456/45731
-#EXTINF:-1 tvg-country=“AE” tvg-logo="https://lh3.googleusercontent.com/proxy/hai61QqBWG55ICjONAuIn1cRzy5cbP_YJMtR4d7DjcX0FMguRgZ99gYiuZZDQ2rbTnUbxeScNV6h1dySdody5V9epAxdYbQHMx80UHreaJAOiwdD" group-title="Entertainment",E! 
-http://ip.tv4k.be:8000/sedat/123456/49359
-#EXTINF:-1 tvg-country=“AE” tvg-logo="https://neulioneuosn-a.akamaihd.net/u/osn/wavo/thumbs/channels/OSN-MOVIES.png" group-title="Entertainment",OSN MOVIES ACTION
-http://ip.tv4k.be:8000/sedat/123456/49366
-#EXTINF:-1 tvg-country=“AE” tvg-logo="https://neulioneuosn-a.akamaihd.net/u/osn/wavo/thumbs/channels/OSN-MOVIES.png" group-title="Entertainment",OSN MOVIES BINGE
-http://ip.tv4k.be:8000/sedat/123456/49367
-#EXTINF:-1 tvg-country=“AE” tvg-logo="https://neulioneuosn-a.akamaihd.net/u/osn/wavo/thumbs/channels/OSN-MOVIES.png" group-title="Entertainment",OSN MOVIES Disney 
-http://ip.tv4k.be:8000/sedat/123456/49368
-#EXTINF:-1 tvg-country=“AE” tvg-logo="https://neulioneuosn-a.akamaihd.net/u/osn/wavo/thumbs/channels/OSN-MOVIES.png" group-title="Entertainment",OSN MOVIES ENGIMA 
-http://ip.tv4k.be:8000/sedat/123456/49369
-#EXTINF:-1 tvg-country=“AE” tvg-logo="https://neulioneuosn-a.akamaihd.net/u/osn/wavo/thumbs/channels/OSN-MOVIES.png" group-title="Entertainment",OSN MOVIES FIRST  2 
-http://ip.tv4k.be:8000/sedat/123456/49361
-#EXTINF:-1 tvg-country=“AE” tvg-logo="https://neulioneuosn-a.akamaihd.net/u/osn/wavo/thumbs/channels/OSN-MOVIES.png" group-title="Entertainment",OSN MOVIES FIRST 
-http://ip.tv4k.be:8000/sedat/123456/49360
-#EXTINF:-1 tvg-country=“AE” tvg-logo="https://neulioneuosn-a.akamaihd.net/u/osn/wavo/thumbs/channels/OSN-MOVIES.png" group-title="Entertainment",OSN MOVIES 
-http://ip.tv4k.be:8000/sedat/123456/49365
-#EXTINF:-1 tvg-country=“AE” tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/MTV_Live_HD_2013_logo.svg" group-title="Entertainment",MTV LIVE 
-http://ip.tv4k.be:8000/sedat/123456/49343
-#EXTINF:-1 tvg-country=“AE” tvg-logo="https://seeklogo.com/images/P/paramount-network-logo-B1F5D3F4FA-seeklogo.com.png" group-title="Entertainment",PARAMOUNT
-http://ip.tv4k.be:8000/sedat/123456/49376
-#EXTINF:-1 tvg-country=“AE” tvg-logo="https://s3-eu-west-1.amazonaws.com/photo.elcinema.com/tvguide/1254_1.png" group-title="Entertainment",SERIES COMEDY
-http://ip.tv4k.be:8000/sedat/123456/49377
-#EXTINF:-1 tvg-country=“AE” tvg-logo="https://s3-eu-west-1.amazonaws.com/photo.elcinema.com/tvguide/1254_1.png" group-title="Entertainment",SERIES FIRST
-http://ip.tv4k.be:8000/sedat/123456/49378
-#EXTINF:-1 tvg-country=“AE” tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/6/6e/Star_Movies_1999.svg/revision/latest/scale-to-width-down/340?cb=20131118102807" group-title="Entertainment",STAR MOVIES 
-http://ip.tv4k.be:8000/sedat/123456/49380
-#EXTINF:-1 tvg-country=“AE” tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/90/STAR_World.svg/1200px-STAR_World.svg.png" group-title="Entertainment",STAR WORLD 
-http://ip.tv4k.be:8000/sedat/123456/49381
 #EXTINF:0 tvg-country="US" tvg-logo="https://i.imgur.com/SAfy1us.png" group-title="Entertainment",STIRR Comedy
 https://dai.google.com/linear/hls/event/dGP9Z-PNRPCgGQSDEzxqYg/master.m3u8?checkedby:iptvcat.com
 
 #EXTINF:0 tvg-country="AE" tvg-logo="https://cdn.sat.tv/wp-content/uploads/2017/03/AbuDhabiNatGeo.png" group-title="Educational",AD Nat Geo
 http://37.235.38.131:4000/play/a02g/index.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 tvg-country=“AE” tvg-logo="https://1000logos.net/wp-content/uploads/2017/04/National-Geographic-Logo.png" group-title="Educational",NAT GEO
-http://ip.tv4k.be:8000/sedat/123456/49371
-#EXTINF:-1 tvg-country=“AE” tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/New_NatGeo_People_logo.svg/1200px-New_NatGeo_People_logo.svg.png" group-title="Educational",NAT GEO PEOPLE 
-http://ip.tv4k.be:8000/sedat/123456/49372
-#EXTINF:-1 tvg-country=“AE” tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Nat_Geo_Wild_logo.png/1200px-Nat_Geo_Wild_logo.png" group-title="Educational",NAT GEO WILD
-http://ip.tv4k.be:8000/sedat/123456/49373
-#EXTINF:-1 tvg-country=“AE” tvg-logo="https://seeklogo.com/images/D/discovery-logo-853C219A76-seeklogo.com.png" group-title="Educational",DISCOVERY
-http://ip.tv4k.be:8000/sedat/123456/49354
-#EXTINF:-1 tvg-country=“AE” tvg-logo="https://www.renewcanceltv.com/wp-content/uploads/2015/06/idlogo.png" group-title="Educational",DISCOVERY ID
-http://ip.tv4k.be:8000/sedat/123456/49355
-#EXTINF:-1 tvg-country=“AE” tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Discovery_Science_2017_Logo.svg/1200px-Discovery_Science_2017_Logo.svg.png" group-title="Educational",DISCOVERY SCIENCE
-http://ip.tv4k.be:8000/sedat/123456/49356
-#EXTINF:-1 tvg-country=“AE” tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/1000px-History_Logo.svg.png" group-title="Educational",HISTORY
-http://ip.tv4k.be:8000/sedat/123456/49362
-#EXTINF:-1 tvg-country=“AE” tvg-logo="https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=2000&h=1333&url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F6%2F2017%2F05%2Fdefault-2000.jpg" group-title="Educational",SYFY
-http://ip.tv4k.be:8000/sedat/123456/49382
-#EXTINF:-1 tvg-country=“AE” tvg-logo="https://d3dh6of9cnaq4t.cloudfront.net/Pictures/2000x2000fit/7/3/5/6735_animalplanetnewlogo2018_906859.jpg" group-title="Educational",ANIMAL PLANET
-http://ip.tv4k.be:8000/sedat/123456/49349
-#EXTINF:-1 tvg-country=“AE” tvg-logo="https://www.sky.co.nz/documents/24003/39746/Living_Logo_250x180.png/8cbc5f2f-1588-3408-16bc-efb40f9ff2ab?t=1578349448834" group-title="Educational",LIVING
-http://ip.tv4k.be:8000/sedat/123456/49364
 #EXTINF:0 tvg-country="UN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/1200px-Russia-today-logo.svg.png" group-title="Educational",RT Documentary
 http://rt-doc.secure.footprint.net/1101_2500Kb.m3u8?checkedby:iptvcat.com
 
@@ -154,13 +100,3 @@ http://dmithrvll.cdn.mangomolo.com/dubairacing/smil:dubairacing.smil/playlist.m3
 #EXTINF:0 tvg-country="MY" tvg-logo="https://pbs.twimg.com/profile_images/1225458959697530884/9b6y_bZI_400x400.jpg" group-title="Sports",Dubai Racing 3 
 http://dmithrvll.cdn.mangomolo.com/dubaimubasher/smil:dubaimubasher.smil/playlist.m3u8?checkedby:iptvcat.com
 
-#EXTINF:-1 tvg-country=“AE” tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/2014_Disney_Channel_logo.svg/800px-2014_Disney_Channel_logo.svg.png" group-title="Kids",DISNEY
-http://ip.tv4k.be:8000/sedat/123456/49357
-#EXTINF:-1 tvg-country=“AE” tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/e177ca65-6430-4dcc-9f1d-afcc9b20ed62/d9yzcx6-380c4009-90e9-4546-bb79-87c8d36ace2c.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOiIsImlzcyI6InVybjphcHA6Iiwib2JqIjpbW3sicGF0aCI6IlwvZlwvZTE3N2NhNjUtNjQzMC00ZGNjLTlmMWQtYWZjYzliMjBlZDYyXC9kOXl6Y3g2LTM4MGM0MDA5LTkwZTktNDU0Ni1iYjc5LTg3YzhkMzZhY2UyYy5wbmcifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6ZmlsZS5kb3dubG9hZCJdfQ.w79EkfrDuyaADqTS-Z2GtJDBqHwqOc7A4SW-pFTpV4A" group-title="Kids",DISNEY JUNIOR
-http://ip.tv4k.be:8000/sedat/123456/49358
-#EXTINF:-1 tvg-country=“AE” tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Logo_Disney_XD.svg/1280px-Logo_Disney_XD.svg.png" group-title="Kids",DISNEY XD
-http://ip.tv4k.be:8000/sedat/123456/49346
-#EXTINF:-1 tvg-country=“AE” tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Natgeo_Kids_logo.svg/1280px-Natgeo_Kids_logo.svg.png" group-title="Kids",NAT GEO KIDS
-http://ip.tv4k.be:8000/sedat/123456/49383
-#EXTINF:-1 tvg-country=“AE” tvg-logo="https://i.pinimg.com/originals/86/12/c0/8612c00269243389c9c5346798eae1da.png" group-title="Kids",NICKELODEON
-http://ip.tv4k.be:8000/sedat/123456/49375
