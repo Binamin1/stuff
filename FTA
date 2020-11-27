@@ -32,17 +32,17 @@ http://partwo.cdn.mangomolo.com/omlive/smil:omlive.stream.smil/playlist.m3u8?che
 http://iptv1.privateiptv.club:80/freeview/freeview/641?checkedby:iptvcat.com
 
 #EXTINF:0 tvg-country="AE" tvg-id="MBC1" tvg-logo="https://i.imgur.com/eKBXOKd.png" group-title="MBC",MBC 1
-http://178.239.61.168:5000/MBC1
+https://shls-mbc1ksa-prod-dub.shahid.net/out/v1/451b666db1fb41c7a4bbecf7b4865107/index.m3u8
 #EXTINF:0 tvg-country="AE" tvg-id="MBC2" tvg-logo="https://i.imgur.com/KXuzL1u.png" group-title="MBC",MBC 2
-http://178.239.61.168:5000/MBC2
+https://shls-mbc2-prod-dub.shahid.net/out/v1/b4befe19798745fe986f5a9bfba62126/index.m3u8
 #EXTINF:0 tvg-country="AE" tvg-id="MBC3" tvg-logo="https://i.imgur.com/FVNVC73.png" group-title="MBC",MBC 3
-http://178.239.61.168:5000/MBC3
+https://shls-mbc3-prod-dub.shahid.net/out/v1/d5bbe570e1514d3d9a142657d33d85e6/index.m3u8
 #EXTINF:0 tvg-country="AE" tvg-id="MBC4" tvg-logo="https://i.imgur.com/pfF61uH.png" group-title="MBC",MBC 4
-http://178.239.61.168:5000/MBC4
+https://shls-mbc4-prod-dub.shahid.net/out/v1/c08681f81775496ab4afa2bac7ae7638/index.m3u8
 #EXTINF:0 tvg-country="AE" tvg-id="MBC Action" tvg-logo="https://i.imgur.com/n3TgfP0.png" group-title="MBC",MBC Action
-http://178.239.61.168:5000/MBCAction
+https://shls-mbcaction-prod-dub.shahid.net/out/v1/68dd761538e5460096c42422199d050b/index.m3u8
 #EXTINF:0 tvg-country="AE" tvg-id="MBC Max" tvg-logo="https://i.imgur.com/X6EliFm.png" group-title="MBC",MBC Max
-http://178.239.61.168:5000/MBCMAX
+https://shls-mbcmax-prod-dub.shahid.net/out/v1/13815a7cda864c249a88c38e66a2e653/index.m3u8
 
 #EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/WjJ8MHC.png" group-title="Entertainment",Dubai One
 https://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/playlist.m3u8?checkedby:iptvcat.com
